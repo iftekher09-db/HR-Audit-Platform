@@ -137,7 +137,8 @@
           "action": "Need to maintain records properly"
         },
         "Training and Development__5": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         }
       },
       "status": "In Progress",
@@ -153,7 +154,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:32:44.377Z",
+    "updatedAt": "2026-07-12T10:32:51.924Z",
     "updatedBy": ""
   }
 }
