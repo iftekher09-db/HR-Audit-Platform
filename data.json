@@ -502,7 +502,8 @@
           "action": "Need to take initiatives"
         },
         "Employee Relations, Communication and Engagement__22": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         }
       },
       "status": "In Progress",
@@ -518,7 +519,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:48:34.942Z",
+    "updatedAt": "2026-07-12T10:48:39.808Z",
     "updatedBy": ""
   }
 }
