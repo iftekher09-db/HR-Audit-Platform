@@ -688,7 +688,8 @@
         },
         "Performance Management__1": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need PMS training"
         },
         "Performance Management__2": {
           "ans": "yes"
@@ -710,7 +711,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:04:35.936Z",
+    "updatedAt": "2026-07-12T11:04:42.930Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
