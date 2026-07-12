@@ -51,13 +51,17 @@
         },
         "Recruitment and Selection__3": {
           "ans": "no",
-          "finding": "Record not found"
+          "finding": "Record not found",
+          "action": "Need to prepare plan for execution"
+        },
+        "Recruitment and Selection__4": {
+          "ans": "partial"
         }
       },
       "status": "In Progress",
       "score": 4,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 8,
+      "_answered": 9,
       "_total": 127
     }
   ],
@@ -67,7 +71,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:27:59.860Z",
+    "updatedAt": "2026-07-12T10:28:07.087Z",
     "updatedBy": ""
   }
 }
