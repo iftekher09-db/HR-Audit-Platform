@@ -481,12 +481,15 @@
         "Employee Relations, Communication and Engagement__17": {
           "ans": "no",
           "finding": "N/A"
+        },
+        "Employee Relations, Communication and Engagement__18": {
+          "ans": "partial"
         }
       },
       "status": "In Progress",
       "score": 65,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 122,
+      "_answered": 123,
       "_total": 127
     }
   ],
@@ -496,7 +499,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:47:23.818Z",
+    "updatedAt": "2026-07-12T10:47:33.779Z",
     "updatedBy": ""
   }
 }
