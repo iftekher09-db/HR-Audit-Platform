@@ -293,7 +293,8 @@
         },
         "Disciplinary Actions and Termination Processes__1": {
           "ans": "partial",
-          "finding": "Partial data found"
+          "finding": "Partial data found",
+          "action": "Need to training and aware all employee about disciplinary Process"
         },
         "Disciplinary Actions and Termination Processes__2": {
           "ans": "yes"
@@ -315,7 +316,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:38:34.935Z",
+    "updatedAt": "2026-07-12T10:38:45.925Z",
     "updatedBy": ""
   }
 }
