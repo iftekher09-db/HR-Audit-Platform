@@ -551,7 +551,8 @@
         },
         "Recruitment and Selection__0": {
           "ans": "partial",
-          "finding": "Partially maintain"
+          "finding": "Partially maintain",
+          "action": "Need to maintain approved policy"
         },
         "Recruitment and Selection__1": {
           "ans": "partial"
@@ -576,7 +577,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:57:22.927Z",
+    "updatedAt": "2026-07-12T10:57:28.107Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
