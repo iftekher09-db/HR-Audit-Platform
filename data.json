@@ -484,7 +484,8 @@
         },
         "Employee Relations, Communication and Engagement__18": {
           "ans": "partial",
-          "finding": "Production Incentive & Excess Shipment for Direct Employee"
+          "finding": "Production Incentive & Excess Shipment for Direct Employee",
+          "action": "Need to take initiative, like - EOM, Punctual Gem, etc."
         },
         "Employee Relations, Communication and Engagement__19": {
           "ans": "no"
@@ -512,7 +513,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:47:46.334Z",
+    "updatedAt": "2026-07-12T10:47:53.980Z",
     "updatedBy": ""
   }
 }
