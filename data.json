@@ -575,7 +575,8 @@
           "action": "Need to get approval from concern authority"
         },
         "Recruitment and Selection__5": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Recruitment and Selection__6": {
           "ans": "partial"
@@ -600,7 +601,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:58:56.001Z",
+    "updatedAt": "2026-07-12T10:59:03.281Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
