@@ -326,12 +326,18 @@
         },
         "Disciplinary Actions and Termination Processes__10": {
           "ans": "yes"
+        },
+        "Succession Planning and Talent Management__0": {
+          "ans": "partial"
+        },
+        "Succession Planning and Talent Management__1": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 48,
+      "score": 50,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 83,
+      "_answered": 85,
       "_total": 127
     }
   ],
@@ -341,7 +347,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:40:22.230Z",
+    "updatedAt": "2026-07-12T10:40:29.144Z",
     "updatedBy": ""
   }
 }
