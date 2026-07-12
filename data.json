@@ -133,7 +133,8 @@
         },
         "Training and Development__4": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to maintain records properly"
         },
         "Training and Development__5": {
           "ans": "no"
@@ -152,7 +153,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:32:37.014Z",
+    "updatedAt": "2026-07-12T10:32:44.377Z",
     "updatedBy": ""
   }
 }
