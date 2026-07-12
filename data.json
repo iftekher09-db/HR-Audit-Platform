@@ -475,7 +475,8 @@
           "action": "Need to take initiatives"
         },
         "Employee Relations, Communication and Engagement__16": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "N/A"
         },
         "Employee Relations, Communication and Engagement__17": {
           "ans": "no"
@@ -494,7 +495,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:47:07.631Z",
+    "updatedAt": "2026-07-12T10:47:15.092Z",
     "updatedBy": ""
   }
 }
