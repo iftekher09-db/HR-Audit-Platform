@@ -590,7 +590,8 @@
           "action": "Need to introduce Index for the all employees"
         },
         "Recruitment and Selection__8": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No complete data found"
         }
       },
       "status": "In Progress",
@@ -606,7 +607,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:59:36.930Z",
+    "updatedAt": "2026-07-12T10:59:41.761Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
