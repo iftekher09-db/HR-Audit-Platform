@@ -608,7 +608,8 @@
           "action": "Need to implement a database for ATS"
         },
         "Recruitment and Selection__12": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No proper data found"
         }
       },
       "status": "In Progress",
@@ -624,7 +625,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:00:33.836Z",
+    "updatedAt": "2026-07-12T11:00:41.209Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
