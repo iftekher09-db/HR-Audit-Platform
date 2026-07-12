@@ -157,12 +157,15 @@
         },
         "Training and Development__10": {
           "ans": "yes"
+        },
+        "Performance Management__0": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 16,
+      "score": 17,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 34,
+      "_answered": 35,
       "_total": 127
     }
   ],
@@ -172,7 +175,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:33:45.935Z",
+    "updatedAt": "2026-07-12T10:33:50.522Z",
     "updatedBy": ""
   }
 }
