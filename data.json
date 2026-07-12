@@ -994,7 +994,8 @@
         },
         "Employee Relations, Communication and Engagement__11": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to prepare a flowchart and committee for open the box"
         },
         "Employee Relations, Communication and Engagement__12": {
           "ans": "yes"
@@ -1016,7 +1017,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:17:01.824Z",
+    "updatedAt": "2026-07-12T11:17:09.151Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
