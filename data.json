@@ -532,11 +532,18 @@
         "Succession Planning and Talent Management",
         "Employee Relations, Communication and Engagement"
       ],
-      "answers": {},
+      "answers": {
+        "Code of Conduct__0": {
+          "ans": "partial"
+        },
+        "Code of Conduct__1": {
+          "ans": "yes"
+        }
+      },
       "status": "In Progress",
-      "score": 0,
+      "score": 1,
       "createdAt": "2026-07-12T10:56:16.235Z",
-      "_answered": 0,
+      "_answered": 2,
       "_total": 127
     }
   ],
@@ -546,7 +553,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:56:17.048Z",
+    "updatedAt": "2026-07-12T10:56:25.891Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
