@@ -109,12 +109,15 @@
         },
         "Recruitment and Selection__17": {
           "ans": "yes"
+        },
+        "Recruitment and Selection__18": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 11,
+      "score": 12,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 22,
+      "_answered": 23,
       "_total": 127
     }
   ],
@@ -124,7 +127,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:30:49.918Z",
+    "updatedAt": "2026-07-12T10:30:52.476Z",
     "updatedBy": ""
   }
 }
