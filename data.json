@@ -245,7 +245,8 @@
         },
         "Compensation and Benefits__17": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to implement a control parameters"
         },
         "Compensation and Benefits__18": {
           "ans": "yes"
@@ -267,7 +268,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:37:06.933Z",
+    "updatedAt": "2026-07-12T10:37:15.924Z",
     "updatedBy": ""
   }
 }
