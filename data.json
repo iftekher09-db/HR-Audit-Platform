@@ -488,7 +488,8 @@
           "action": "Need to take initiative, like - EOM, Punctual Gem, etc."
         },
         "Employee Relations, Communication and Engagement__19": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Employee Relations, Communication and Engagement__20": {
           "ans": "no"
@@ -513,7 +514,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:47:53.980Z",
+    "updatedAt": "2026-07-12T10:47:59.940Z",
     "updatedBy": ""
   }
 }
