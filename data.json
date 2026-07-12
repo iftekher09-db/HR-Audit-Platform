@@ -666,12 +666,18 @@
           "ans": "partial",
           "finding": "No proper process followed and also no training room for delegate training",
           "action": "Need proper support and initiative for training effectiveness"
+        },
+        "Training and Development__7": {
+          "ans": "yes"
+        },
+        "Training and Development__8": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 13,
       "createdAt": "2026-07-12T10:56:16.235Z",
-      "_answered": 30,
+      "_answered": 32,
       "_total": 127
     }
   ],
@@ -681,7 +687,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:03:36.805Z",
+    "updatedAt": "2026-07-12T11:03:48.246Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
