@@ -407,12 +407,15 @@
         },
         "Succession Planning and Talent Management__18": {
           "ans": "yes"
+        },
+        "Succession Planning and Talent Management__19": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 55,
+      "score": 56,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 102,
+      "_answered": 103,
       "_total": 127
     }
   ],
@@ -422,7 +425,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:44:25.671Z",
+    "updatedAt": "2026-07-12T10:44:28.879Z",
     "updatedBy": ""
   }
 }
