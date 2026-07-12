@@ -566,7 +566,8 @@
         },
         "Recruitment and Selection__3": {
           "ans": "no",
-          "finding": "No approval found"
+          "finding": "No approval found",
+          "action": "Need to take approval at least Business Head. Maintain Manpower Standardization "
         }
       },
       "status": "In Progress",
@@ -582,7 +583,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:58:03.393Z",
+    "updatedAt": "2026-07-12T10:58:11.024Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
