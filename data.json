@@ -643,7 +643,8 @@
           "action": "Need to arrange TNA for all employee, specially Staff & Mgt"
         },
         "Training and Development__2": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Records found in one training program"
         },
         "Training and Development__3": {
           "ans": "partial"
@@ -662,7 +663,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:02:04.726Z",
+    "updatedAt": "2026-07-12T11:02:10.925Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
