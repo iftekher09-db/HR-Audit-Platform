@@ -163,7 +163,8 @@
         },
         "Performance Management__1": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to arrange a awareness session for concern HR"
         },
         "Performance Management__2": {
           "ans": "yes"
@@ -182,7 +183,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:33:59.380Z",
+    "updatedAt": "2026-07-12T10:34:11.924Z",
     "updatedBy": ""
   }
 }
