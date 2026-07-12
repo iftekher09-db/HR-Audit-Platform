@@ -852,7 +852,8 @@
         },
         "Disciplinary Actions and Termination Processes__7": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to increase employee engagement activities"
         },
         "Disciplinary Actions and Termination Processes__8": {
           "ans": "yes"
@@ -874,7 +875,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:11:08.965Z",
+    "updatedAt": "2026-07-12T11:11:18.934Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
