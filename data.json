@@ -851,7 +851,8 @@
           "action": "Need to train at least all managers"
         },
         "Disciplinary Actions and Termination Processes__7": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Disciplinary Actions and Termination Processes__8": {
           "ans": "yes"
@@ -873,7 +874,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:11:01.936Z",
+    "updatedAt": "2026-07-12T11:11:08.965Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
