@@ -55,7 +55,8 @@
           "action": "Need to prepare plan for execution"
         },
         "Recruitment and Selection__4": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Locked records not found"
         }
       },
       "status": "In Progress",
@@ -71,7 +72,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:28:07.087Z",
+    "updatedAt": "2026-07-12T10:28:34.230Z",
     "updatedBy": ""
   }
 }
