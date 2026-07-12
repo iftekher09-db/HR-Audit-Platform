@@ -301,12 +301,18 @@
         },
         "Disciplinary Actions and Termination Processes__3": {
           "ans": "yes"
+        },
+        "Disciplinary Actions and Termination Processes__4": {
+          "ans": "partial"
+        },
+        "Disciplinary Actions and Termination Processes__5": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 44,
+      "score": 45,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 76,
+      "_answered": 78,
       "_total": 127
     }
   ],
@@ -316,7 +322,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:38:45.925Z",
+    "updatedAt": "2026-07-12T10:38:51.413Z",
     "updatedBy": ""
   }
 }
