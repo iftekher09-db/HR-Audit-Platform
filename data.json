@@ -651,12 +651,15 @@
           "ans": "partial",
           "finding": "Partial records found",
           "action": "Implement for all. Staff & Mgt"
+        },
+        "Training and Development__4": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 12,
       "createdAt": "2026-07-12T10:56:16.235Z",
-      "_answered": 27,
+      "_answered": 28,
       "_total": 127
     }
   ],
@@ -666,7 +669,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:02:31.626Z",
+    "updatedAt": "2026-07-12T11:02:36.086Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
