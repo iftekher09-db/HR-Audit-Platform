@@ -97,7 +97,8 @@
           "ans": "yes"
         },
         "Recruitment and Selection__14": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No maintain properly"
         }
       },
       "status": "In Progress",
@@ -113,7 +114,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:30:32.136Z",
+    "updatedAt": "2026-07-12T10:30:34.933Z",
     "updatedBy": ""
   }
 }
