@@ -455,7 +455,8 @@
           "ans": "yes"
         },
         "Employee Relations, Communication and Engagement__12": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Employee Relations, Communication and Engagement__13": {
           "ans": "no"
@@ -486,7 +487,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:45:40.442Z",
+    "updatedAt": "2026-07-12T10:46:15.924Z",
     "updatedBy": ""
   }
 }
