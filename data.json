@@ -199,12 +199,15 @@
         },
         "Compensation and Benefits__3": {
           "ans": "yes"
+        },
+        "Compensation and Benefits__4": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 24,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 46,
+      "_answered": 47,
       "_total": 127
     }
   ],
@@ -214,7 +217,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:35:31.756Z",
+    "updatedAt": "2026-07-12T10:35:41.480Z",
     "updatedBy": ""
   }
 }
