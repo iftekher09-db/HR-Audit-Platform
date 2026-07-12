@@ -870,7 +870,8 @@
           "action": "Need to prepare at least an SOP"
         },
         "Succession Planning and Talent Management__1": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Succession Planning and Talent Management__2": {
           "ans": "no"
@@ -889,7 +890,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:11:44.767Z",
+    "updatedAt": "2026-07-12T11:11:50.798Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
