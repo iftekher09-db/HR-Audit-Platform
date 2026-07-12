@@ -534,7 +534,8 @@
       ],
       "answers": {
         "Code of Conduct__0": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No records found"
         },
         "Code of Conduct__1": {
           "ans": "yes"
@@ -559,7 +560,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:56:29.162Z",
+    "updatedAt": "2026-07-12T10:56:36.932Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
