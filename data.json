@@ -591,7 +591,8 @@
         },
         "Recruitment and Selection__8": {
           "ans": "partial",
-          "finding": "No complete data found"
+          "finding": "No complete data found",
+          "action": "Need to update Workload Calculation for Employee and Create an index"
         }
       },
       "status": "In Progress",
@@ -607,7 +608,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:59:41.761Z",
+    "updatedAt": "2026-07-12T10:59:48.526Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
