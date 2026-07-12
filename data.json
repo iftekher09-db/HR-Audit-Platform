@@ -68,12 +68,15 @@
           "ans": "partial",
           "finding": "OS updated since January 2026",
           "action": "Need to prepare "
+        },
+        "Recruitment and Selection__7": {
+          "ans": "partial"
         }
       },
       "status": "In Progress",
       "score": 5,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 11,
+      "_answered": 12,
       "_total": 127
     }
   ],
@@ -83,7 +86,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:29:16.926Z",
+    "updatedAt": "2026-07-12T10:29:23.123Z",
     "updatedBy": ""
   }
 }
