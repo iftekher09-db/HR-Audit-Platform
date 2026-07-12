@@ -46,13 +46,17 @@
         },
         "Recruitment and Selection__2": {
           "ans": "partial",
-          "finding": "Approval records not found"
+          "finding": "Approval records not found",
+          "action": "Need to take approval from concern authority"
+        },
+        "Recruitment and Selection__3": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 4,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 7,
+      "_answered": 8,
       "_total": 127
     }
   ],
@@ -62,7 +66,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:27:46.931Z",
+    "updatedAt": "2026-07-12T10:27:52.267Z",
     "updatedBy": ""
   }
 }
