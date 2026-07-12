@@ -120,7 +120,8 @@
           "ans": "no"
         },
         "Training and Development__2": {
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to initiate proper TNA process"
         }
       },
       "status": "In Progress",
@@ -136,7 +137,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:31:08.417Z",
+    "updatedAt": "2026-07-12T10:31:20.320Z",
     "updatedBy": ""
   }
 }
