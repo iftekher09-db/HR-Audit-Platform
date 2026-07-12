@@ -259,12 +259,15 @@
         },
         "HR Technology and Systems__1": {
           "ans": "partial"
+        },
+        "HR Technology and Systems__2": {
+          "ans": "partial"
         }
       },
       "status": "In Progress",
       "score": 35,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 64,
+      "_answered": 65,
       "_total": 127
     }
   ],
@@ -274,7 +277,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:37:20.833Z",
+    "updatedAt": "2026-07-12T10:37:24.924Z",
     "updatedBy": ""
   }
 }
