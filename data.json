@@ -571,7 +571,8 @@
         },
         "Recruitment and Selection__4": {
           "ans": "partial",
-          "finding": "Prepared but not yet locked"
+          "finding": "Prepared but not yet locked",
+          "action": "Need to get approval from concern authority"
         }
       },
       "status": "In Progress",
@@ -587,7 +588,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:58:24.775Z",
+    "updatedAt": "2026-07-12T10:58:40.268Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
