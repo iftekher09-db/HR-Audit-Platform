@@ -128,7 +128,8 @@
         },
         "Training and Development__3": {
           "ans": "partial",
-          "finding": "No records found for Management Employee"
+          "finding": "No records found for Management Employee",
+          "action": "Need to prepare proper schedule for Management Employee"
         },
         "Training and Development__4": {
           "ans": "no"
@@ -150,7 +151,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:32:23.075Z",
+    "updatedAt": "2026-07-12T10:32:29.893Z",
     "updatedBy": ""
   }
 }
