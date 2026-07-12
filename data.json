@@ -593,12 +593,15 @@
           "ans": "partial",
           "finding": "No complete data found",
           "action": "Need to update Workload Calculation for Employee and Create an index"
+        },
+        "Recruitment and Selection__9": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 5,
+      "score": 6,
       "createdAt": "2026-07-12T10:56:16.235Z",
-      "_answered": 13,
+      "_answered": 14,
       "_total": 127
     }
   ],
@@ -608,7 +611,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:59:48.526Z",
+    "updatedAt": "2026-07-12T10:59:55.487Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
