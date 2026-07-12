@@ -720,7 +720,8 @@
           "ans": "yes"
         },
         "Compensation and Benefits__2": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Available for Worker & Management"
         },
         "Compensation and Benefits__3": {
           "ans": "yes"
@@ -739,7 +740,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:05:42.799Z",
+    "updatedAt": "2026-07-12T11:05:48.884Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
