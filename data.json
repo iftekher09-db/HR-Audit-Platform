@@ -907,7 +907,8 @@
         },
         "Succession Planning and Talent Management__9": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Identify and need to prepare a plan for development"
         }
       },
       "status": "In Progress",
@@ -923,7 +924,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:13:51.930Z",
+    "updatedAt": "2026-07-12T11:14:00.935Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
