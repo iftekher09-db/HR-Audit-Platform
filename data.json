@@ -413,7 +413,8 @@
         },
         "Succession Planning and Talent Management__20": {
           "ans": "partial",
-          "finding": "No adequate data found"
+          "finding": "No adequate data found",
+          "action": "Need to align with performance gap"
         }
       },
       "status": "In Progress",
@@ -429,7 +430,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:44:38.925Z",
+    "updatedAt": "2026-07-12T10:44:45.924Z",
     "updatedBy": ""
   }
 }
