@@ -366,13 +366,17 @@
         },
         "Succession Planning and Talent Management__9": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to take initiative"
+        },
+        "Succession Planning and Talent Management__10": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 52,
+      "score": 53,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 93,
+      "_answered": 94,
       "_total": 127
     }
   ],
@@ -382,7 +386,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:42:18.924Z",
+    "updatedAt": "2026-07-12T10:42:24.283Z",
     "updatedBy": ""
   }
 }
