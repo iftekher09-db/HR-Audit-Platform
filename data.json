@@ -1049,7 +1049,7 @@
           "action": "Need to take initiatives with the involvement of higher authority"
         }
       },
-      "status": "In Progress",
+      "status": "Completed",
       "score": 57,
       "createdAt": "2026-07-12T10:56:16.235Z",
       "_answered": 127,
@@ -1062,7 +1062,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:19:58.238Z",
+    "updatedAt": "2026-07-12T11:20:01.693Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
