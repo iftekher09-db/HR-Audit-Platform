@@ -721,7 +721,8 @@
         },
         "Compensation and Benefits__2": {
           "ans": "partial",
-          "finding": "Available for Worker & Management"
+          "finding": "Available for Worker & Management",
+          "action": "Need to implement SOP for Staff Category"
         },
         "Compensation and Benefits__3": {
           "ans": "yes"
@@ -740,7 +741,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:05:48.884Z",
+    "updatedAt": "2026-07-12T11:06:26.564Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
