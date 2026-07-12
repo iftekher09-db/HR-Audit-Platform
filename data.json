@@ -38,7 +38,8 @@
         },
         "Recruitment and Selection__0": {
           "ans": "partial",
-          "finding": "Staff recruitment SOP not found"
+          "finding": "Staff recruitment SOP not found",
+          "action": "Need to maintain"
         }
       },
       "status": "In Progress",
@@ -54,7 +55,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:27:21.439Z",
+    "updatedAt": "2026-07-12T10:27:28.469Z",
     "updatedBy": ""
   }
 }
