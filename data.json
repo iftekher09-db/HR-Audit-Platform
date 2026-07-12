@@ -35,12 +35,15 @@
           "ans": "partial",
           "finding": "Complete data not found",
           "action": "Ensure to complete the training and introduce regular schedule for review"
+        },
+        "Recruitment and Selection__0": {
+          "ans": "partial"
         }
       },
       "status": "In Progress",
-      "score": 2,
+      "score": 3,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 4,
+      "_answered": 5,
       "_total": 127
     }
   ],
@@ -50,7 +53,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:27:05.821Z",
+    "updatedAt": "2026-07-12T10:27:13.165Z",
     "updatedBy": ""
   }
 }
