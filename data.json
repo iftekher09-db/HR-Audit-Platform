@@ -585,7 +585,8 @@
           "action": "Format will be uniformed for both unit"
         },
         "Recruitment and Selection__7": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Few Gap includes"
         },
         "Recruitment and Selection__8": {
           "ans": "partial"
@@ -604,7 +605,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:59:21.430Z",
+    "updatedAt": "2026-07-12T10:59:28.358Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
