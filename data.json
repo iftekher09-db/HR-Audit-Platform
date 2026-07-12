@@ -746,7 +746,8 @@
           "ans": "yes"
         },
         "Compensation and Benefits__10": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No adequate record found"
         },
         "Compensation and Benefits__11": {
           "ans": "no"
@@ -768,7 +769,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:06:59.250Z",
+    "updatedAt": "2026-07-12T11:07:05.925Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
