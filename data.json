@@ -339,12 +339,18 @@
           "ans": "no",
           "finding": "No records found",
           "action": "Need to implement the process with the help of Corporate HR"
+        },
+        "Succession Planning and Talent Management__3": {
+          "ans": "yes"
+        },
+        "Succession Planning and Talent Management__4": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 50,
+      "score": 51,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 86,
+      "_answered": 88,
       "_total": 127
     }
   ],
@@ -354,7 +360,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:41:03.936Z",
+    "updatedAt": "2026-07-12T10:41:08.415Z",
     "updatedBy": ""
   }
 }
