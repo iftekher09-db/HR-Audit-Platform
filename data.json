@@ -314,12 +314,18 @@
           "ans": "partial",
           "finding": "Partial data found",
           "action": "At least managerial role needs to trained "
+        },
+        "Disciplinary Actions and Termination Processes__7": {
+          "ans": "yes"
+        },
+        "Disciplinary Actions and Termination Processes__8": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 45,
+      "score": 47,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 79,
+      "_answered": 81,
       "_total": 127
     }
   ],
@@ -329,7 +335,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:40:10.923Z",
+    "updatedAt": "2026-07-12T10:40:15.073Z",
     "updatedBy": ""
   }
 }
