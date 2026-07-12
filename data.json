@@ -56,7 +56,8 @@
         },
         "Recruitment and Selection__4": {
           "ans": "partial",
-          "finding": "Locked records not found"
+          "finding": "Locked records not found",
+          "action": "Need to preserve approval records"
         }
       },
       "status": "In Progress",
@@ -72,7 +73,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:28:34.230Z",
+    "updatedAt": "2026-07-12T10:28:44.935Z",
     "updatedBy": ""
   }
 }
