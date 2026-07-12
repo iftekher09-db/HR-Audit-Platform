@@ -677,7 +677,8 @@
         },
         "Training and Development__9": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Implement Training Budget"
         },
         "Training and Development__10": {
           "ans": "yes"
@@ -696,7 +697,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:04:12.190Z",
+    "updatedAt": "2026-07-12T11:04:20.930Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
