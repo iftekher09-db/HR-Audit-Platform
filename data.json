@@ -264,7 +264,8 @@
         },
         "HR Technology and Systems__2": {
           "ans": "partial",
-          "finding": "Few functionalities missing to accommodate in the HRIS "
+          "finding": "Few functionalities missing to accommodate in the HRIS ",
+          "action": "Need full utilization"
         }
       },
       "status": "In Progress",
@@ -280,7 +281,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:37:44.695Z",
+    "updatedAt": "2026-07-12T10:37:50.880Z",
     "updatedBy": ""
   }
 }
