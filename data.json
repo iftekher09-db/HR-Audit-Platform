@@ -396,7 +396,8 @@
           "action": "Not yet started"
         },
         "Succession Planning and Talent Management__16": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "Not records found"
         },
         "Succession Planning and Talent Management__17": {
           "ans": "no"
@@ -415,7 +416,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:43:57.476Z",
+    "updatedAt": "2026-07-12T10:44:05.515Z",
     "updatedBy": ""
   }
 }
