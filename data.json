@@ -609,7 +609,8 @@
         },
         "Recruitment and Selection__12": {
           "ans": "partial",
-          "finding": "No proper data found"
+          "finding": "No proper data found",
+          "action": "Need to follow screening criteria as stated in all related policies"
         }
       },
       "status": "In Progress",
@@ -625,7 +626,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:00:41.209Z",
+    "updatedAt": "2026-07-12T11:00:47.286Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
