@@ -65,7 +65,8 @@
           "action": "Need to increase female employee ratio"
         },
         "Recruitment and Selection__6": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "OS updated since January 2026"
         }
       },
       "status": "In Progress",
@@ -81,7 +82,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:29:00.947Z",
+    "updatedAt": "2026-07-12T10:29:09.101Z",
     "updatedBy": ""
   }
 }
