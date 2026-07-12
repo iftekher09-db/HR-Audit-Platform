@@ -701,7 +701,8 @@
           "ans": "yes"
         },
         "Performance Management__5": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Partial due to lack of PMS training"
         },
         "Performance Management__6": {
           "ans": "no"
@@ -720,7 +721,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:04:58.934Z",
+    "updatedAt": "2026-07-12T11:05:03.925Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
