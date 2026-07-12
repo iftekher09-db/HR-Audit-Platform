@@ -28,12 +28,15 @@
         },
         "Code of Conduct__2": {
           "ans": "partial"
+        },
+        "Code of Conduct__3": {
+          "ans": "partial"
         }
       },
       "status": "In Progress",
       "score": 2,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 3,
+      "_answered": 4,
       "_total": 127
     }
   ],
@@ -43,7 +46,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:25:35.775Z",
+    "updatedAt": "2026-07-12T10:25:38.821Z",
     "updatedBy": ""
   }
 }
