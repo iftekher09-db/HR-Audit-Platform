@@ -71,13 +71,17 @@
         },
         "Recruitment and Selection__7": {
           "ans": "partial",
-          "finding": "Complete data not found"
+          "finding": "Complete data not found",
+          "action": "Clear report required for better understanding"
+        },
+        "Recruitment and Selection__8": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 5,
+      "score": 6,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 12,
+      "_answered": 13,
       "_total": 127
     }
   ],
@@ -87,7 +91,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:29:27.934Z",
+    "updatedAt": "2026-07-12T10:29:35.392Z",
     "updatedBy": ""
   }
 }
