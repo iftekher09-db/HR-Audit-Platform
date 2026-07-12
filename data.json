@@ -45,7 +45,8 @@
           "ans": "yes"
         },
         "Recruitment and Selection__2": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Approval records not found"
         }
       },
       "status": "In Progress",
@@ -61,7 +62,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:27:43.922Z",
+    "updatedAt": "2026-07-12T10:27:46.931Z",
     "updatedBy": ""
   }
 }
