@@ -430,7 +430,8 @@
         },
         "Employee Relations, Communication and Engagement__4": {
           "ans": "partial",
-          "finding": "No adequate data found"
+          "finding": "No adequate data found",
+          "action": "Need to provide proper training"
         }
       },
       "status": "In Progress",
@@ -446,7 +447,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:45:02.634Z",
+    "updatedAt": "2026-07-12T10:45:09.924Z",
     "updatedBy": ""
   }
 }
