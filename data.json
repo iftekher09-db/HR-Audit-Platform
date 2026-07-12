@@ -37,7 +37,8 @@
           "action": "Ensure to complete the training and introduce regular schedule for review"
         },
         "Recruitment and Selection__0": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Staff recruitment SOP not found"
         }
       },
       "status": "In Progress",
@@ -53,7 +54,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:27:13.165Z",
+    "updatedAt": "2026-07-12T10:27:21.439Z",
     "updatedBy": ""
   }
 }
