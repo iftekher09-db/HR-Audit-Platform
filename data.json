@@ -140,12 +140,18 @@
           "ans": "no",
           "finding": "No records found",
           "action": "Need to introduce training feedback form and future analysis"
+        },
+        "Training and Development__6": {
+          "ans": "yes"
+        },
+        "Training and Development__7": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 13,
+      "score": 15,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 29,
+      "_answered": 31,
       "_total": 127
     }
   ],
@@ -155,7 +161,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:33:02.926Z",
+    "updatedAt": "2026-07-12T10:33:09.366Z",
     "updatedBy": ""
   }
 }
