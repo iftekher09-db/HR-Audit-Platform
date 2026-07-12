@@ -152,7 +152,8 @@
         },
         "Training and Development__9": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to take initiative"
         },
         "Training and Development__10": {
           "ans": "yes"
@@ -171,7 +172,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:33:26.558Z",
+    "updatedAt": "2026-07-12T10:33:45.935Z",
     "updatedBy": ""
   }
 }
