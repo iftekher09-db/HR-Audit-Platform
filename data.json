@@ -32,7 +32,8 @@
           "action": "Need to prepare a schedule for regular COC training purpose"
         },
         "Code of Conduct__3": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Complete data not found"
         }
       },
       "status": "In Progress",
@@ -48,7 +49,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:26:48.471Z",
+    "updatedAt": "2026-07-12T10:26:56.096Z",
     "updatedBy": ""
   }
 }
