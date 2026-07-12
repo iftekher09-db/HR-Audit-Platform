@@ -796,7 +796,8 @@
         },
         "HR Technology and Systems__3": {
           "ans": "partial",
-          "finding": "Few errors found"
+          "finding": "Few errors found",
+          "action": "Need an Integrated HRIS"
         }
       },
       "status": "In Progress",
@@ -812,7 +813,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:08:54.270Z",
+    "updatedAt": "2026-07-12T11:09:00.536Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
