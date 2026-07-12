@@ -118,6 +118,9 @@
         },
         "Training and Development__1": {
           "ans": "no"
+        },
+        "Training and Development__2": {
+          "finding": "No records found"
         }
       },
       "status": "In Progress",
@@ -133,7 +136,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:31:00.600Z",
+    "updatedAt": "2026-07-12T10:31:08.417Z",
     "updatedBy": ""
   }
 }
