@@ -329,7 +329,8 @@
         },
         "Succession Planning and Talent Management__0": {
           "ans": "partial",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to prepare an SOP for maintaining Succession Planning Process"
         },
         "Succession Planning and Talent Management__1": {
           "ans": "yes"
@@ -351,7 +352,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:40:40.055Z",
+    "updatedAt": "2026-07-12T10:40:48.413Z",
     "updatedBy": ""
   }
 }
