@@ -132,7 +132,8 @@
           "action": "Need to prepare proper schedule for Management Employee"
         },
         "Training and Development__4": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Training and Development__5": {
           "ans": "no"
@@ -151,7 +152,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:32:29.893Z",
+    "updatedAt": "2026-07-12T10:32:37.014Z",
     "updatedBy": ""
   }
 }
