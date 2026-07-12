@@ -61,13 +61,17 @@
         },
         "Recruitment and Selection__5": {
           "ans": "no",
-          "finding": "No evidence found"
+          "finding": "No evidence found",
+          "action": "Need to increase female employee ratio"
+        },
+        "Recruitment and Selection__6": {
+          "ans": "partial"
         }
       },
       "status": "In Progress",
-      "score": 4,
+      "score": 5,
       "createdAt": "2026-07-12T10:24:52.263Z",
-      "_answered": 10,
+      "_answered": 11,
       "_total": 127
     }
   ],
@@ -77,7 +81,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:28:54.925Z",
+    "updatedAt": "2026-07-12T10:29:00.947Z",
     "updatedBy": ""
   }
 }
