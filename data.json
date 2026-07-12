@@ -461,7 +461,8 @@
         },
         "Employee Relations, Communication and Engagement__13": {
           "ans": "no",
-          "finding": "Program held but no formal calendar maintained"
+          "finding": "Program held but no formal calendar maintained",
+          "action": "Need to formalize"
         },
         "Employee Relations, Communication and Engagement__14": {
           "ans": "no"
@@ -489,7 +490,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:46:32.924Z",
+    "updatedAt": "2026-07-12T10:46:38.874Z",
     "updatedBy": ""
   }
 }
