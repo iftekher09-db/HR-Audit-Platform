@@ -785,7 +785,8 @@
           "ans": "yes"
         },
         "HR Technology and Systems__1": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Partially Integrated"
         },
         "HR Technology and Systems__2": {
           "ans": "partial"
@@ -807,7 +808,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:08:19.736Z",
+    "updatedAt": "2026-07-12T11:08:27.548Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
