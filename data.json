@@ -706,7 +706,8 @@
           "action": "Training required for PMS"
         },
         "Performance Management__6": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         }
       },
       "status": "In Progress",
@@ -722,7 +723,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:05:09.344Z",
+    "updatedAt": "2026-07-12T11:05:16.922Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
