@@ -982,12 +982,18 @@
         },
         "Employee Relations, Communication and Engagement__7": {
           "ans": "yes"
+        },
+        "Employee Relations, Communication and Engagement__8": {
+          "ans": "yes"
+        },
+        "Employee Relations, Communication and Engagement__9": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 53,
+      "score": 55,
       "createdAt": "2026-07-12T10:56:16.235Z",
-      "_answered": 112,
+      "_answered": 114,
       "_total": 127
     }
   ],
@@ -997,7 +1003,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:16:39.712Z",
+    "updatedAt": "2026-07-12T11:16:42.929Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
