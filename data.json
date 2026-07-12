@@ -672,7 +672,8 @@
         },
         "Training and Development__8": {
           "ans": "no",
-          "finding": "No evidence found"
+          "finding": "No evidence found",
+          "action": "Need certification"
         },
         "Training and Development__9": {
           "ans": "no"
@@ -694,7 +695,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:03:58.187Z",
+    "updatedAt": "2026-07-12T11:04:04.168Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
