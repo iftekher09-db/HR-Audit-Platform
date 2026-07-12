@@ -604,7 +604,8 @@
         },
         "Recruitment and Selection__11": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to implement a database for ATS"
         },
         "Recruitment and Selection__12": {
           "ans": "partial"
@@ -623,7 +624,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:00:26.011Z",
+    "updatedAt": "2026-07-12T11:00:33.836Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
