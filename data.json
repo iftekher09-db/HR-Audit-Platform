@@ -1,11 +1,39 @@
 {
-  "audits": [],
+  "audits": [
+    {
+      "id": 1783851892263,
+      "businessType": "RMG",
+      "lob": "Garments",
+      "location": "Flamingo2",
+      "legalEntity": "Flamingo Fashions Ltd.",
+      "date": "2026-06-14",
+      "auditor": "A S M Iftekher Nur",
+      "areas": [
+        "Code of Conduct",
+        "Recruitment and Selection",
+        "Training and Development",
+        "Performance Management",
+        "Compensation and Benefits",
+        "HR Technology and Systems",
+        "Disciplinary Actions and Termination Processes",
+        "Succession Planning and Talent Management",
+        "Employee Relations, Communication and Engagement"
+      ],
+      "answers": {},
+      "status": "In Progress",
+      "score": 0,
+      "createdAt": "2026-07-12T10:24:52.263Z",
+      "_answered": 0,
+      "_total": 127
+    }
+  ],
   "settings": {
     "auditor": "",
     "org": "DBL Group",
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T09:25:07.726Z"
+    "updatedAt": "2026-07-12T10:24:53.064Z",
+    "updatedBy": ""
   }
 }
