@@ -634,7 +634,8 @@
         },
         "Training and Development__0": {
           "ans": "partial",
-          "finding": "No policy learning"
+          "finding": "No policy learning",
+          "action": "Need adopt policy as approved"
         },
         "Training and Development__1": {
           "ans": "partial"
@@ -659,7 +660,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:01:44.960Z",
+    "updatedAt": "2026-07-12T11:01:51.924Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
