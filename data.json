@@ -483,7 +483,8 @@
           "finding": "N/A"
         },
         "Employee Relations, Communication and Engagement__18": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Production Incentive & Excess Shipment for Direct Employee"
         },
         "Employee Relations, Communication and Engagement__19": {
           "ans": "no"
@@ -511,7 +512,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:47:39.507Z",
+    "updatedAt": "2026-07-12T10:47:46.334Z",
     "updatedBy": ""
   }
 }
