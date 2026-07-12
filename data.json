@@ -644,7 +644,8 @@
         },
         "Training and Development__2": {
           "ans": "partial",
-          "finding": "Records found in one training program"
+          "finding": "Records found in one training program",
+          "action": "Need for every possible training aspect"
         },
         "Training and Development__3": {
           "ans": "partial"
@@ -663,7 +664,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:02:10.925Z",
+    "updatedAt": "2026-07-12T11:02:17.551Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
