@@ -81,7 +81,8 @@
           "ans": "yes"
         },
         "Recruitment and Selection__10": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Recruitment and Selection__11": {
           "ans": "no"
@@ -100,7 +101,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:29:47.916Z",
+    "updatedAt": "2026-07-12T10:29:51.927Z",
     "updatedBy": ""
   }
 }
