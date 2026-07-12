@@ -259,7 +259,8 @@
         },
         "HR Technology and Systems__1": {
           "ans": "partial",
-          "finding": "Few integration missing"
+          "finding": "Few integration missing",
+          "action": "Need to integrated"
         },
         "HR Technology and Systems__2": {
           "ans": "partial"
@@ -278,7 +279,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:37:28.457Z",
+    "updatedAt": "2026-07-12T10:37:35.669Z",
     "updatedBy": ""
   }
 }
