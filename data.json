@@ -747,7 +747,8 @@
         },
         "Compensation and Benefits__10": {
           "ans": "partial",
-          "finding": "No adequate record found"
+          "finding": "No adequate record found",
+          "action": "Need to update an SOP"
         },
         "Compensation and Benefits__11": {
           "ans": "no"
@@ -769,7 +770,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:07:05.925Z",
+    "updatedAt": "2026-07-12T11:07:11.128Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
