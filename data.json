@@ -312,7 +312,8 @@
         },
         "Disciplinary Actions and Termination Processes__6": {
           "ans": "partial",
-          "finding": "Partial data found"
+          "finding": "Partial data found",
+          "action": "At least managerial role needs to trained "
         }
       },
       "status": "In Progress",
@@ -328,7 +329,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T10:40:00.816Z",
+    "updatedAt": "2026-07-12T10:40:10.923Z",
     "updatedBy": ""
   }
 }
