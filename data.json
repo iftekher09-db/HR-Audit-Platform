@@ -1332,12 +1332,18 @@
         },
         "HR Technology and Systems__3": {
           "ans": "yes"
+        },
+        "HR Technology and Systems__4": {
+          "ans": "partial"
+        },
+        "HR Technology and Systems__5": {
+          "ans": "partial"
         }
       },
       "status": "In Progress",
-      "score": 32,
+      "score": 33,
       "createdAt": "2026-07-13T07:56:28.819Z",
-      "_answered": 66,
+      "_answered": 68,
       "_total": 127
     }
   ],
@@ -1347,7 +1353,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:00:18.898Z",
+    "updatedAt": "2026-07-13T09:00:22.929Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
