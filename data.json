@@ -1108,7 +1108,8 @@
         },
         "Recruitment and Selection__3": {
           "ans": "partial",
-          "finding": "Manpower planning found but no OS"
+          "finding": "Manpower planning found but no OS",
+          "action": "Need to lock OS"
         },
         "Recruitment and Selection__4": {
           "ans": "yes"
@@ -1169,7 +1170,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:09:07.069Z",
+    "updatedAt": "2026-07-13T08:09:13.831Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
