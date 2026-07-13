@@ -1467,7 +1467,8 @@
         },
         "Succession Planning and Talent Management__17": {
           "ans": "no",
-          "finding": "Informal in practice"
+          "finding": "Informal in practice",
+          "action": "Need an SOP for regular practice"
         },
         "Succession Planning and Talent Management__18": {
           "ans": "yes"
@@ -1492,7 +1493,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:21:38.926Z",
+    "updatedAt": "2026-07-13T09:21:46.924Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
