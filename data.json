@@ -1798,12 +1798,18 @@
         },
         "Compensation and Benefits__9": {
           "ans": "partial"
+        },
+        "Compensation and Benefits__10": {
+          "ans": "partial"
+        },
+        "Compensation and Benefits__11": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 23,
       "createdAt": "2026-07-13T09:29:38.694Z",
-      "_answered": 52,
+      "_answered": 54,
       "_total": 127
     }
   ],
@@ -1813,7 +1819,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:04:11.387Z",
+    "updatedAt": "2026-07-13T10:04:14.936Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
