@@ -1742,7 +1742,8 @@
         },
         "Performance Management__1": {
           "ans": "no",
-          "finding": "No complete records found"
+          "finding": "No complete records found",
+          "action": "Need rescheduling PMS training for all employees and Line Managers"
         },
         "Performance Management__2": {
           "ans": "partial"
@@ -1776,7 +1777,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:02:53.925Z",
+    "updatedAt": "2026-07-13T10:03:00.638Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
