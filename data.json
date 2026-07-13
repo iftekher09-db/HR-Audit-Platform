@@ -1974,7 +1974,8 @@
         },
         "Succession Planning and Talent Management__14": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to take initiatives to lead special projects"
         },
         "Succession Planning and Talent Management__15": {
           "ans": "partial"
@@ -2008,7 +2009,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:18:15.703Z",
+    "updatedAt": "2026-07-13T10:18:21.698Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
