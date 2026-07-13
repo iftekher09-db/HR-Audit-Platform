@@ -1795,7 +1795,8 @@
           "action": "Need to maintain properly before salary processing"
         },
         "Compensation and Benefits__7": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Integrate with only attendance system"
         },
         "Compensation and Benefits__8": {
           "ans": "yes"
@@ -1847,7 +1848,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:05:10.928Z",
+    "updatedAt": "2026-07-13T10:05:16.408Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
