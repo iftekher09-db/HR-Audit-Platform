@@ -1077,7 +1077,8 @@
       "answers": {
         "Code of Conduct__0": {
           "ans": "partial",
-          "finding": "Acknowledge Received. But training/ awareness session missing/ pending"
+          "finding": "Acknowledge Received. But training/ awareness session missing/ pending",
+          "action": "Need to implement regular training/ awareness session arrangement"
         },
         "Code of Conduct__1": {
           "ans": "yes"
@@ -1102,7 +1103,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:01:41.885Z",
+    "updatedAt": "2026-07-13T08:01:54.939Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
