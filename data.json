@@ -1182,7 +1182,8 @@
         },
         "Training and Development__2": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to implement TNA Process"
         },
         "Training and Development__3": {
           "ans": "partial"
@@ -1222,7 +1223,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:23:39.987Z",
+    "updatedAt": "2026-07-13T08:23:46.713Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
