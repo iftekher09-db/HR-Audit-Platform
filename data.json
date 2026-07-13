@@ -1201,7 +1201,8 @@
           "action": "Need to introduce reaction form"
         },
         "Training and Development__6": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Training and Development__7": {
           "ans": "yes"
@@ -1229,7 +1230,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:24:38.508Z",
+    "updatedAt": "2026-07-13T08:24:51.923Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
