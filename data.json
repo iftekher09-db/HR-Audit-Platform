@@ -1565,7 +1565,7 @@
           "action": "Need to trained them for promote the process"
         }
       },
-      "status": "In Progress",
+      "status": "Completed",
       "score": 67,
       "createdAt": "2026-07-13T07:56:28.819Z",
       "_answered": 127,
@@ -1578,7 +1578,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:25:11.374Z",
+    "updatedAt": "2026-07-13T09:25:15.571Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
