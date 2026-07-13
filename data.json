@@ -1375,7 +1375,8 @@
         },
         "Disciplinary Actions and Termination Processes__4": {
           "ans": "partial",
-          "finding": "No professional records found"
+          "finding": "No professional records found",
+          "action": "Corrective Action Plan need to prepare and attached"
         },
         "Disciplinary Actions and Termination Processes__5": {
           "ans": "yes"
@@ -1409,7 +1410,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:17:00.475Z",
+    "updatedAt": "2026-07-13T09:17:07.771Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
