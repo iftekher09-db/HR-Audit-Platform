@@ -1808,7 +1808,8 @@
           "action": "Need to verify before salary processing"
         },
         "Compensation and Benefits__10": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Maintained properly"
         },
         "Compensation and Benefits__11": {
           "ans": "no"
@@ -1851,7 +1852,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:05:38.937Z",
+    "updatedAt": "2026-07-13T10:05:44.927Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
