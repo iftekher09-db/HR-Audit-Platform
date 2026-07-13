@@ -1191,7 +1191,8 @@
           "action": "Design for all"
         },
         "Training and Development__4": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Training and Development__5": {
           "ans": "no"
@@ -1225,7 +1226,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:24:01.866Z",
+    "updatedAt": "2026-07-13T08:24:07.631Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
