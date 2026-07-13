@@ -1866,7 +1866,8 @@
         },
         "HR Technology and Systems__7": {
           "ans": "no",
-          "finding": "No written plan"
+          "finding": "No written plan",
+          "action": "To prepare and SOP for System Downtime and Uses of Back-up data"
         },
         "HR Technology and Systems__8": {
           "ans": "yes"
@@ -1888,7 +1889,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:09:34.929Z",
+    "updatedAt": "2026-07-13T10:09:43.934Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
