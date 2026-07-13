@@ -1155,7 +1155,8 @@
         },
         "Recruitment and Selection__14": {
           "ans": "no",
-          "finding": "No proper/ No complete documents found"
+          "finding": "No proper/ No complete documents found",
+          "action": "Need to maintain properly"
         },
         "Recruitment and Selection__15": {
           "ans": "yes"
@@ -1183,7 +1184,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:18:07.925Z",
+    "updatedAt": "2026-07-13T08:19:54.935Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
