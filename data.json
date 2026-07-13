@@ -1226,7 +1226,8 @@
         },
         "Performance Management__1": {
           "ans": "partial",
-          "finding": "No complete records found"
+          "finding": "No complete records found",
+          "action": "Need proper awareness program for all management level employee"
         },
         "Performance Management__2": {
           "ans": "yes"
@@ -1260,7 +1261,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:35:01.861Z",
+    "updatedAt": "2026-07-13T08:35:09.869Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
