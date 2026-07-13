@@ -1125,7 +1125,8 @@
           "action": "Need to develop"
         },
         "Recruitment and Selection__7": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No full records found"
         },
         "Recruitment and Selection__8": {
           "ans": "no"
@@ -1174,7 +1175,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:10:12.280Z",
+    "updatedAt": "2026-07-13T08:10:44.806Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
