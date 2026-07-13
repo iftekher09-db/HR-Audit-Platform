@@ -1945,7 +1945,8 @@
           "action": "Program initiated by Plant HR"
         },
         "Succession Planning and Talent Management__6": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Succession Planning and Talent Management__7": {
           "ans": "yes"
@@ -2003,7 +2004,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:17:40.930Z",
+    "updatedAt": "2026-07-13T10:17:47.935Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
