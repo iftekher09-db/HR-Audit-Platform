@@ -1339,7 +1339,8 @@
         },
         "HR Technology and Systems__4": {
           "ans": "partial",
-          "finding": "Partially practiced"
+          "finding": "Partially practiced",
+          "action": "Need formal process development"
         },
         "HR Technology and Systems__5": {
           "ans": "partial"
@@ -1370,7 +1371,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:03:11.934Z",
+    "updatedAt": "2026-07-13T09:03:17.216Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
