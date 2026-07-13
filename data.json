@@ -1639,7 +1639,8 @@
           "action": "Update OS in frequent basis"
         },
         "Recruitment and Selection__7": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No complete records found"
         },
         "Recruitment and Selection__8": {
           "ans": "no"
@@ -1688,7 +1689,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:36:04.565Z",
+    "updatedAt": "2026-07-13T09:36:11.927Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
