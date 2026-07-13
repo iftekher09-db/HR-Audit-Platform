@@ -1711,7 +1711,8 @@
         },
         "Training and Development__5": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to introduce training feedback form"
         },
         "Training and Development__6": {
           "ans": "no"
@@ -1742,7 +1743,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:38:57.112Z",
+    "updatedAt": "2026-07-13T09:39:03.938Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
