@@ -1550,7 +1550,8 @@
         },
         "Employee Relations, Communication and Engagement__19": {
           "ans": "partial",
-          "finding": "No adequate records found"
+          "finding": "No adequate records found",
+          "action": "Can be introduce with the management approval"
         },
         "Employee Relations, Communication and Engagement__20": {
           "ans": "yes"
@@ -1575,7 +1576,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:24:49.937Z",
+    "updatedAt": "2026-07-13T09:24:58.932Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
