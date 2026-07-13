@@ -1287,7 +1287,8 @@
         },
         "Compensation and Benefits__10": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to develop an SOP for Access Control"
         },
         "Compensation and Benefits__11": {
           "ans": "yes"
@@ -1330,7 +1331,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:55:09.134Z",
+    "updatedAt": "2026-07-13T08:55:16.700Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
