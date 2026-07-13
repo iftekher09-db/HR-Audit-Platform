@@ -1737,7 +1737,8 @@
         },
         "Performance Management__0": {
           "ans": "partial",
-          "finding": "No complete records found"
+          "finding": "No complete records found",
+          "action": "Need to prepare for staff"
         },
         "Performance Management__1": {
           "ans": "no"
@@ -1774,7 +1775,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:02:41.931Z",
+    "updatedAt": "2026-07-13T10:02:47.732Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
