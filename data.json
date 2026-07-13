@@ -1728,7 +1728,8 @@
           "action": "Need to take TOT for certification"
         },
         "Training and Development__9": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Training and Development__10": {
           "ans": "yes"
@@ -1747,7 +1748,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:40:18.926Z",
+    "updatedAt": "2026-07-13T09:40:31.933Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
