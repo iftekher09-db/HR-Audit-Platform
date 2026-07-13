@@ -1196,7 +1196,8 @@
           "action": "Need to introduce"
         },
         "Training and Development__5": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Training and Development__6": {
           "ans": "no"
@@ -1227,7 +1228,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:24:13.444Z",
+    "updatedAt": "2026-07-13T08:24:28.695Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
