@@ -1343,7 +1343,8 @@
           "action": "Need formal process development"
         },
         "HR Technology and Systems__5": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No complete data found"
         },
         "HR Technology and Systems__6": {
           "ans": "no"
@@ -1371,7 +1372,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:03:17.216Z",
+    "updatedAt": "2026-07-13T09:03:23.712Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
