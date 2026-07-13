@@ -1387,7 +1387,8 @@
           "action": "Can be introduce for better disciplinary process"
         },
         "Disciplinary Actions and Termination Processes__7": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No complete records found"
         },
         "Disciplinary Actions and Termination Processes__8": {
           "ans": "yes"
@@ -1412,7 +1413,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:17:21.626Z",
+    "updatedAt": "2026-07-13T09:17:29.570Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
