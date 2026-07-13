@@ -1301,7 +1301,8 @@
         },
         "Compensation and Benefits__14": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to prepare an SOP/ NDA"
         },
         "Compensation and Benefits__15": {
           "ans": "yes"
@@ -1332,7 +1333,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:55:23.927Z",
+    "updatedAt": "2026-07-13T08:55:32.799Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
