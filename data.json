@@ -1693,7 +1693,8 @@
         },
         "Training and Development__1": {
           "ans": "partial",
-          "finding": "No complete report found"
+          "finding": "No complete report found",
+          "action": "Need proper training, documentation & analysis"
         },
         "Training and Development__2": {
           "ans": "partial"
@@ -1736,7 +1737,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:38:17.712Z",
+    "updatedAt": "2026-07-13T09:38:24.190Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
