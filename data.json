@@ -1171,7 +1171,8 @@
           "ans": "yes"
         },
         "Training and Development__0": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No awareness found"
         },
         "Training and Development__1": {
           "ans": "no"
@@ -1217,7 +1218,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:20:30.875Z",
+    "updatedAt": "2026-07-13T08:23:14.924Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
