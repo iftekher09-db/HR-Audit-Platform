@@ -1348,7 +1348,8 @@
           "action": "Execute the process in time"
         },
         "HR Technology and Systems__6": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "HR Technology and Systems__7": {
           "ans": "yes"
@@ -1373,7 +1374,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:03:30.412Z",
+    "updatedAt": "2026-07-13T09:03:37.238Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
