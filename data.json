@@ -1630,7 +1630,8 @@
         },
         "Recruitment and Selection__5": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to take initiatives for Gender Ratio improve and add this in HR KPI"
         },
         "Recruitment and Selection__6": {
           "ans": "no"
@@ -1685,7 +1686,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:35:42.042Z",
+    "updatedAt": "2026-07-13T09:35:50.683Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
