@@ -1494,7 +1494,8 @@
           "ans": "yes"
         },
         "Employee Relations, Communication and Engagement__4": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "All managers are not fully aware"
         },
         "Employee Relations, Communication and Engagement__5": {
           "ans": "yes"
@@ -1564,7 +1565,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:23:20.294Z",
+    "updatedAt": "2026-07-13T09:23:38.201Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
