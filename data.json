@@ -1935,7 +1935,8 @@
           "action": "Need to prepare a plan for emergency succession"
         },
         "Succession Planning and Talent Management__4": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Succession Planning and Talent Management__5": {
           "ans": "partial"
@@ -1999,7 +2000,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:17:12.935Z",
+    "updatedAt": "2026-07-13T10:17:18.535Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
