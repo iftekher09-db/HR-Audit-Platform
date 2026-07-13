@@ -1226,12 +1226,15 @@
         },
         "Performance Management__1": {
           "ans": "partial"
+        },
+        "Performance Management__2": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 14,
+      "score": 15,
       "createdAt": "2026-07-13T07:56:28.819Z",
-      "_answered": 36,
+      "_answered": 37,
       "_total": 127
     }
   ],
@@ -1241,7 +1244,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:34:29.620Z",
+    "updatedAt": "2026-07-13T08:34:32.798Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
