@@ -1865,7 +1865,8 @@
           "ans": "yes"
         },
         "HR Technology and Systems__7": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No written plan"
         },
         "HR Technology and Systems__8": {
           "ans": "yes"
@@ -1887,7 +1888,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:06:57.603Z",
+    "updatedAt": "2026-07-13T10:09:34.929Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
