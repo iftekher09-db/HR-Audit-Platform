@@ -1814,7 +1814,8 @@
         },
         "Compensation and Benefits__11": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need an initiative for payroll auditing by HR Head"
         },
         "Compensation and Benefits__12": {
           "ans": "yes"
@@ -1854,7 +1855,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:05:57.926Z",
+    "updatedAt": "2026-07-13T10:06:06.252Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
