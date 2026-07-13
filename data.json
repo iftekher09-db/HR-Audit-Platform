@@ -1478,7 +1478,8 @@
         },
         "Succession Planning and Talent Management__20": {
           "ans": "partial",
-          "finding": "Maintain for Top Talent but not bottom employee"
+          "finding": "Maintain for Top Talent but not bottom employee",
+          "action": "Need to introduce for all"
         }
       },
       "status": "In Progress",
@@ -1494,7 +1495,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:21:53.933Z",
+    "updatedAt": "2026-07-13T09:22:00.926Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
