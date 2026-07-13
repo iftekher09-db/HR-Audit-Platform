@@ -1421,7 +1421,8 @@
         },
         "Succession Planning and Talent Management__5": {
           "ans": "partial",
-          "finding": "Taken partial initiatives"
+          "finding": "Taken partial initiatives",
+          "action": "Need management consideration"
         },
         "Succession Planning and Talent Management__6": {
           "ans": "yes"
@@ -1482,7 +1483,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:19:27.934Z",
+    "updatedAt": "2026-07-13T09:19:34.934Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
