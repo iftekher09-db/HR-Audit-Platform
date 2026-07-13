@@ -1803,7 +1803,8 @@
           "ans": "yes"
         },
         "Compensation and Benefits__9": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Verification not proper time"
         },
         "Compensation and Benefits__10": {
           "ans": "partial"
@@ -1849,7 +1850,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:05:23.577Z",
+    "updatedAt": "2026-07-13T10:05:32.477Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
