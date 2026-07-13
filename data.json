@@ -1747,7 +1747,8 @@
         },
         "Performance Management__2": {
           "ans": "partial",
-          "finding": "Found lack of proper training"
+          "finding": "Found lack of proper training",
+          "action": "Need rescheduling PMS training for all employees and Line Managers"
         },
         "Performance Management__3": {
           "ans": "partial"
@@ -1778,7 +1779,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:03:08.446Z",
+    "updatedAt": "2026-07-13T10:03:19.119Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
