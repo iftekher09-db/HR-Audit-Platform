@@ -1752,7 +1752,8 @@
         },
         "Performance Management__3": {
           "ans": "partial",
-          "finding": "Few are pending - Departmental Head"
+          "finding": "Few are pending - Departmental Head",
+          "action": "Need to complete"
         },
         "Performance Management__4": {
           "ans": "yes"
@@ -1780,7 +1781,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:03:24.930Z",
+    "updatedAt": "2026-07-13T10:03:31.194Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
