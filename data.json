@@ -1796,7 +1796,8 @@
         },
         "Compensation and Benefits__7": {
           "ans": "partial",
-          "finding": "Integrate with only attendance system"
+          "finding": "Integrate with only attendance system",
+          "action": "Need to introduce Integrated HRIS"
         },
         "Compensation and Benefits__8": {
           "ans": "yes"
@@ -1848,7 +1849,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:05:16.408Z",
+    "updatedAt": "2026-07-13T10:05:23.577Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
