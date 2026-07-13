@@ -1790,7 +1790,8 @@
           "ans": "yes"
         },
         "Compensation and Benefits__6": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Exist but not maintain properly"
         },
         "Compensation and Benefits__7": {
           "ans": "partial"
@@ -1845,7 +1846,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:04:58.936Z",
+    "updatedAt": "2026-07-13T10:05:04.931Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
