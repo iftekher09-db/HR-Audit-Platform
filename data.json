@@ -1176,7 +1176,8 @@
           "action": "Everybody should know the policy (Key Account Manager)"
         },
         "Training and Development__1": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Training and Development__2": {
           "ans": "no"
@@ -1219,7 +1220,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:23:20.899Z",
+    "updatedAt": "2026-07-13T08:23:26.497Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
