@@ -1480,12 +1480,18 @@
           "ans": "partial",
           "finding": "Maintain for Top Talent but not bottom employee",
           "action": "Need to introduce for all"
+        },
+        "Employee Relations, Communication and Engagement__0": {
+          "ans": "yes"
+        },
+        "Employee Relations, Communication and Engagement__1": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 54,
+      "score": 55,
       "createdAt": "2026-07-13T07:56:28.819Z",
-      "_answered": 104,
+      "_answered": 106,
       "_total": 127
     }
   ],
@@ -1495,7 +1501,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:22:00.926Z",
+    "updatedAt": "2026-07-13T09:22:05.901Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
