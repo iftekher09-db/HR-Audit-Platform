@@ -1677,7 +1677,8 @@
         },
         "Recruitment and Selection__17": {
           "ans": "partial",
-          "finding": "No complete data found"
+          "finding": "No complete data found",
+          "action": "Internal Orientation is required for all employees"
         },
         "Recruitment and Selection__18": {
           "ans": "yes"
@@ -1699,7 +1700,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:37:18.939Z",
+    "updatedAt": "2026-07-13T09:37:26.234Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
