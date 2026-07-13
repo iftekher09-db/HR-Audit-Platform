@@ -1615,7 +1615,8 @@
         },
         "Recruitment and Selection__2": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Manpower Standardization - Initiate for approval"
         },
         "Recruitment and Selection__3": {
           "ans": "no"
@@ -1679,7 +1680,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:34:11.929Z",
+    "updatedAt": "2026-07-13T09:34:17.308Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
