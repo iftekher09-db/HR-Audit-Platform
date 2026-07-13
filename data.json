@@ -1408,7 +1408,8 @@
         },
         "Succession Planning and Talent Management__2": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to introduce"
         },
         "Succession Planning and Talent Management__3": {
           "ans": "yes"
@@ -1478,7 +1479,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:18:56.808Z",
+    "updatedAt": "2026-07-13T09:19:04.758Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
