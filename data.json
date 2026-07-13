@@ -1092,12 +1092,15 @@
           "ans": "no",
           "finding": "But training/ awareness session missing/ pending",
           "action": "Need to implement regular training/ awareness session arrangement. Keep records accordingly"
+        },
+        "Recruitment and Selection__0": {
+          "ans": "partial"
         }
       },
       "status": "In Progress",
-      "score": 1,
+      "score": 2,
       "createdAt": "2026-07-13T07:56:28.819Z",
-      "_answered": 4,
+      "_answered": 5,
       "_total": 127
     }
   ],
@@ -1107,7 +1110,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:02:30.929Z",
+    "updatedAt": "2026-07-13T08:02:37.643Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
