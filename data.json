@@ -1131,7 +1131,8 @@
         },
         "Recruitment and Selection__8": {
           "ans": "no",
-          "finding": "No proper records found"
+          "finding": "No proper records found",
+          "action": "Need to develop and keep records both manual & soft"
         },
         "Recruitment and Selection__9": {
           "ans": "yes"
@@ -1177,7 +1178,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:15:58.924Z",
+    "updatedAt": "2026-07-13T08:16:05.176Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
