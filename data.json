@@ -1338,7 +1338,8 @@
           "ans": "yes"
         },
         "HR Technology and Systems__4": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Partially practiced"
         },
         "HR Technology and Systems__5": {
           "ans": "partial"
@@ -1369,7 +1370,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:01:14.556Z",
+    "updatedAt": "2026-07-13T09:03:11.934Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
