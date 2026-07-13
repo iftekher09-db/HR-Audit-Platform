@@ -1593,7 +1593,8 @@
       "answers": {
         "Code of Conduct__0": {
           "ans": "partial",
-          "finding": "Only worker covered"
+          "finding": "Only worker covered",
+          "action": "Need to arrange for Management Employee"
         },
         "Code of Conduct__1": {
           "ans": "yes"
@@ -1618,7 +1619,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:30:31.941Z",
+    "updatedAt": "2026-07-13T09:30:39.336Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
