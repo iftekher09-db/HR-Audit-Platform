@@ -1716,7 +1716,8 @@
         },
         "Training and Development__6": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to include training objective in each training"
         },
         "Training and Development__7": {
           "ans": "yes"
@@ -1744,7 +1745,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:39:09.932Z",
+    "updatedAt": "2026-07-13T09:39:15.597Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
