@@ -1692,7 +1692,8 @@
           "action": "Need to consider Other policy which is preserved in ZingHR Portal"
         },
         "Training and Development__1": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No complete report found"
         },
         "Training and Development__2": {
           "ans": "partial"
@@ -1735,7 +1736,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:38:10.926Z",
+    "updatedAt": "2026-07-13T09:38:17.712Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
