@@ -1930,7 +1930,8 @@
           "action": "Need to prepare the list for succession planning"
         },
         "Succession Planning and Talent Management__3": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         },
         "Succession Planning and Talent Management__4": {
           "ans": "no"
@@ -1997,7 +1998,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:16:59.462Z",
+    "updatedAt": "2026-07-13T10:17:07.940Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
