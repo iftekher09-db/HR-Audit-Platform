@@ -1688,7 +1688,8 @@
         },
         "Training and Development__0": {
           "ans": "partial",
-          "finding": "Maintained only Compliance Training Policy"
+          "finding": "Maintained only Compliance Training Policy",
+          "action": "Need to consider Other policy which is preserved in ZingHR Portal"
         },
         "Training and Development__1": {
           "ans": "partial"
@@ -1734,7 +1735,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:38:04.932Z",
+    "updatedAt": "2026-07-13T09:38:10.926Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
