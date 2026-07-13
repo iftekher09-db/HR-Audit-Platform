@@ -1592,7 +1592,8 @@
       ],
       "answers": {
         "Code of Conduct__0": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Only worker covered"
         },
         "Code of Conduct__1": {
           "ans": "yes"
@@ -1617,7 +1618,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:30:12.816Z",
+    "updatedAt": "2026-07-13T09:30:31.941Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
