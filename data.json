@@ -2093,7 +2093,7 @@
           "action": "Need to introduce"
         }
       },
-      "status": "In Progress",
+      "status": "Completed",
       "score": 60,
       "createdAt": "2026-07-13T09:29:38.694Z",
       "_answered": 127,
@@ -2106,7 +2106,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T10:25:02.236Z",
+    "updatedAt": "2026-07-13T10:25:05.736Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
