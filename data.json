@@ -1121,7 +1121,8 @@
         },
         "Recruitment and Selection__6": {
           "ans": "no",
-          "finding": "No approved/ locked OS found"
+          "finding": "No approved/ locked OS found",
+          "action": "Need to develop"
         },
         "Recruitment and Selection__7": {
           "ans": "partial"
@@ -1173,7 +1174,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:10:05.938Z",
+    "updatedAt": "2026-07-13T08:10:12.280Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
