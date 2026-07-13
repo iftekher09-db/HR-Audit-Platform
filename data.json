@@ -1054,6 +1054,32 @@
       "createdAt": "2026-07-12T10:56:16.235Z",
       "_answered": 127,
       "_total": 127
+    },
+    {
+      "id": 1783929388819,
+      "businessType": "RMG",
+      "lob": "Garments",
+      "location": "Jinnat Complex",
+      "legalEntity": "Jinnat Knitwears Ltd.",
+      "date": "2026-07-02",
+      "auditor": "A S M Iftekher Nur",
+      "areas": [
+        "Code of Conduct",
+        "Recruitment and Selection",
+        "Training and Development",
+        "Performance Management",
+        "Compensation and Benefits",
+        "HR Technology and Systems",
+        "Disciplinary Actions and Termination Processes",
+        "Succession Planning and Talent Management",
+        "Employee Relations, Communication and Engagement"
+      ],
+      "answers": {},
+      "status": "In Progress",
+      "score": 0,
+      "createdAt": "2026-07-13T07:56:28.819Z",
+      "_answered": 0,
+      "_total": 127
     }
   ],
   "settings": {
@@ -1062,7 +1088,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-12T11:20:01.693Z",
+    "updatedAt": "2026-07-13T07:56:29.625Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
