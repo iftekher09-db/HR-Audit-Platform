@@ -1090,7 +1090,8 @@
         },
         "Code of Conduct__3": {
           "ans": "no",
-          "finding": "But training/ awareness session missing/ pending"
+          "finding": "But training/ awareness session missing/ pending",
+          "action": "Need to implement regular training/ awareness session arrangement. Keep records accordingly"
         }
       },
       "status": "In Progress",
@@ -1106,7 +1107,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:02:20.788Z",
+    "updatedAt": "2026-07-13T08:02:30.929Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
