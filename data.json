@@ -1116,7 +1116,8 @@
         },
         "Recruitment and Selection__5": {
           "ans": "no",
-          "finding": "No KPI found to improve"
+          "finding": "No KPI found to improve",
+          "action": "Need to add in KPI. Action will be taken accordingly"
         },
         "Recruitment and Selection__6": {
           "ans": "no"
@@ -1171,7 +1172,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:09:52.930Z",
+    "updatedAt": "2026-07-13T08:09:59.144Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
