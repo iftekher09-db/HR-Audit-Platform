@@ -1437,7 +1437,8 @@
         },
         "Succession Planning and Talent Management__9": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to develop an SOP for mentorship program and executed"
         },
         "Succession Planning and Talent Management__10": {
           "ans": "yes"
@@ -1486,7 +1487,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:19:57.050Z",
+    "updatedAt": "2026-07-13T09:20:42.927Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
