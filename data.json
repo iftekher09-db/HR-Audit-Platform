@@ -1653,7 +1653,8 @@
         },
         "Recruitment and Selection__10": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Proposed to keep records for ATS"
         },
         "Recruitment and Selection__11": {
           "ans": "no"
@@ -1693,7 +1694,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T09:36:37.938Z",
+    "updatedAt": "2026-07-13T09:36:42.957Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
