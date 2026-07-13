@@ -1120,7 +1120,8 @@
           "action": "Need to add in KPI. Action will be taken accordingly"
         },
         "Recruitment and Selection__6": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No approved/ locked OS found"
         },
         "Recruitment and Selection__7": {
           "ans": "partial"
@@ -1172,7 +1173,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-13T08:09:59.144Z",
+    "updatedAt": "2026-07-13T08:10:05.938Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
