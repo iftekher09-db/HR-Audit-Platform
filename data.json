@@ -2168,7 +2168,8 @@
           "action": "Need to maintain an index and dashboard for presentation"
         },
         "Recruitment and Selection__8": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No update records found"
         }
       },
       "status": "In Progress",
@@ -2184,7 +2185,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T05:43:34.094Z",
+    "updatedAt": "2026-07-16T05:43:43.625Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
