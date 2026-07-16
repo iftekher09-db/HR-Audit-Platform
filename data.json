@@ -2121,13 +2121,17 @@
       "answers": {
         "Code of Conduct__0": {
           "ans": "partial",
-          "finding": "Maximum covered"
+          "finding": "Maximum covered",
+          "action": "Need to awareness session for all employee"
+        },
+        "Code of Conduct__1": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 0,
+      "score": 1,
       "createdAt": "2026-07-16T04:49:56.484Z",
-      "_answered": 1,
+      "_answered": 2,
       "_total": 127
     }
   ],
@@ -2137,7 +2141,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T05:14:48.580Z",
+    "updatedAt": "2026-07-16T05:15:15.610Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
