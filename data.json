@@ -2267,7 +2267,8 @@
         },
         "Performance Management__3": {
           "ans": "partial",
-          "finding": "Still pending. 88% Completed"
+          "finding": "Still pending. 88% Completed",
+          "action": "100% need to fulfill"
         }
       },
       "status": "In Progress",
@@ -2283,7 +2284,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T06:46:35.178Z",
+    "updatedAt": "2026-07-16T06:46:50.931Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
