@@ -2169,7 +2169,8 @@
         },
         "Recruitment and Selection__8": {
           "ans": "partial",
-          "finding": "No update records found"
+          "finding": "No update records found",
+          "action": "Need to update WLC for all employee"
         }
       },
       "status": "In Progress",
@@ -2185,7 +2186,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T05:43:43.625Z",
+    "updatedAt": "2026-07-16T05:44:16.008Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
