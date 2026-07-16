@@ -2156,12 +2156,15 @@
           "ans": "no",
           "finding": "No records found",
           "action": "Need to develop a plan to increase Gender Ratio"
+        },
+        "Recruitment and Selection__6": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 6,
       "createdAt": "2026-07-16T04:49:56.484Z",
-      "_answered": 10,
+      "_answered": 11,
       "_total": 127
     }
   ],
@@ -2171,7 +2174,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T05:32:46.219Z",
+    "updatedAt": "2026-07-16T05:36:15.066Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
