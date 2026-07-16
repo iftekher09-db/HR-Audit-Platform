@@ -2409,7 +2409,8 @@
         },
         "Disciplinary Actions and Termination Processes__6": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to take initiatives for the training / awareness session"
         }
       },
       "status": "In Progress",
@@ -2425,7 +2426,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T07:24:47.337Z",
+    "updatedAt": "2026-07-16T07:25:21.248Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
