@@ -2463,13 +2463,17 @@
         },
         "Succession Planning and Talent Management__9": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to deploy mentorship program"
+        },
+        "Succession Planning and Talent Management__10": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 51,
+      "score": 52,
       "createdAt": "2026-07-16T04:49:56.484Z",
-      "_answered": 91,
+      "_answered": 92,
       "_total": 127
     }
   ],
@@ -2479,7 +2483,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T07:33:46.156Z",
+    "updatedAt": "2026-07-16T07:34:09.238Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
