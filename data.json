@@ -2192,7 +2192,8 @@
         },
         "Recruitment and Selection__14": {
           "ans": "partial",
-          "finding": "No proper documentation"
+          "finding": "No proper documentation",
+          "action": "Need formal process development"
         }
       },
       "status": "In Progress",
@@ -2208,7 +2209,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T05:57:35.092Z",
+    "updatedAt": "2026-07-16T06:00:16.618Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
