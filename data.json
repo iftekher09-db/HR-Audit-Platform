@@ -2408,7 +2408,8 @@
           "ans": "yes"
         },
         "Disciplinary Actions and Termination Processes__6": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         }
       },
       "status": "In Progress",
@@ -2424,7 +2425,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T07:24:41.073Z",
+    "updatedAt": "2026-07-16T07:24:47.337Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
