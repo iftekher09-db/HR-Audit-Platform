@@ -2413,7 +2413,8 @@
           "action": "Need to take initiatives for the training / awareness session"
         },
         "Disciplinary Actions and Termination Processes__7": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No proper documents found"
         }
       },
       "status": "In Progress",
@@ -2429,7 +2430,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T07:26:04.322Z",
+    "updatedAt": "2026-07-16T07:26:12.817Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
