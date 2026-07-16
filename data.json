@@ -2134,7 +2134,8 @@
         },
         "Code of Conduct__3": {
           "ans": "partial",
-          "finding": "Maximum employee got the training"
+          "finding": "Maximum employee got the training",
+          "action": "Rest will be covered"
         }
       },
       "status": "In Progress",
@@ -2150,7 +2151,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T05:17:23.289Z",
+    "updatedAt": "2026-07-16T05:17:34.735Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
