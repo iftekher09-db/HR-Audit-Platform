@@ -2128,7 +2128,8 @@
           "ans": "yes"
         },
         "Code of Conduct__2": {
-          "finding": "Few practice available"
+          "finding": "Few practice available",
+          "action": "Need to prepare a schedule and maintain as per schedule"
         }
       },
       "status": "In Progress",
@@ -2144,7 +2145,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T05:16:23.538Z",
+    "updatedAt": "2026-07-16T05:16:41.349Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
