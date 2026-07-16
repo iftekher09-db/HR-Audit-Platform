@@ -2180,11 +2180,11 @@
           "action": "Need to maintain ATS"
         },
         "Recruitment and Selection__11": {
-          "ans": "yes"
+          "ans": "no"
         }
       },
       "status": "In Progress",
-      "score": 8,
+      "score": 7,
       "createdAt": "2026-07-16T04:49:56.484Z",
       "_answered": 15,
       "_total": 127
@@ -2196,7 +2196,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T05:49:26.118Z",
+    "updatedAt": "2026-07-16T05:49:30.196Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
