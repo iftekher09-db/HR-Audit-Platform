@@ -2416,12 +2416,15 @@
           "ans": "partial",
           "finding": "No proper documents found",
           "action": "Need to implement the process to minimize risk"
+        },
+        "Disciplinary Actions and Termination Processes__8": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 44,
+      "score": 45,
       "createdAt": "2026-07-16T04:49:56.484Z",
-      "_answered": 78,
+      "_answered": 79,
       "_total": 127
     }
   ],
@@ -2431,7 +2434,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T07:27:03.971Z",
+    "updatedAt": "2026-07-16T07:27:08.752Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
