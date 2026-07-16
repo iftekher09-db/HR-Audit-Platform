@@ -2577,7 +2577,8 @@
           "action": "If there isn't any compliance issue then arrange EES"
         },
         "Employee Relations, Communication and Engagement__16": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         }
       },
       "status": "In Progress",
@@ -2593,7 +2594,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T09:03:43.938Z",
+    "updatedAt": "2026-07-16T09:03:50.367Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
