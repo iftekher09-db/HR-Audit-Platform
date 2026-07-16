@@ -2400,7 +2400,8 @@
           "ans": "yes"
         },
         "Disciplinary Actions and Termination Processes__3": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Accused person's signature missing in the Inquiry Statement"
         }
       },
       "status": "In Progress",
@@ -2416,7 +2417,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T07:16:55.813Z",
+    "updatedAt": "2026-07-16T07:18:22.569Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
