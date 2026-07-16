@@ -2136,12 +2136,15 @@
           "ans": "partial",
           "finding": "Maximum employee got the training",
           "action": "Rest will be covered"
+        },
+        "Recruitment and Selection__0": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 2,
+      "score": 3,
       "createdAt": "2026-07-16T04:49:56.484Z",
-      "_answered": 4,
+      "_answered": 5,
       "_total": 127
     }
   ],
@@ -2151,7 +2154,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T05:17:34.735Z",
+    "updatedAt": "2026-07-16T05:17:55.179Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
