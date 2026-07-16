@@ -2233,7 +2233,8 @@
           "action": "Need to develop full schedule"
         },
         "Training and Development__5": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         }
       },
       "status": "In Progress",
@@ -2249,7 +2250,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T06:25:14.367Z",
+    "updatedAt": "2026-07-16T06:25:21.248Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
