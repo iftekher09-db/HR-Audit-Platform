@@ -2590,7 +2590,7 @@
           "action": "Need to implement"
         },
         "Employee Relations, Communication and Engagement__19": {
-          "ans": "no",
+          "ans": "partial",
           "finding": "No records found",
           "action": "No records found"
         },
@@ -2622,7 +2622,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T09:07:07.371Z",
+    "updatedAt": "2026-07-16T09:07:23.327Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
