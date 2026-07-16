@@ -2436,12 +2436,15 @@
           "ans": "no",
           "finding": "No records found",
           "action": "Maintain evaluation"
+        },
+        "Succession Planning and Talent Management__3": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 48,
+      "score": 49,
       "createdAt": "2026-07-16T04:49:56.484Z",
-      "_answered": 84,
+      "_answered": 85,
       "_total": 127
     }
   ],
@@ -2451,7 +2454,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-16T07:30:04.135Z",
+    "updatedAt": "2026-07-16T07:30:26.623Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
