@@ -2641,7 +2641,8 @@
       ],
       "answers": {
         "Code of Conduct__0": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No individual training not yet started. No records found about training."
         }
       },
       "status": "In Progress",
@@ -2657,7 +2658,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T04:50:32.038Z",
+    "updatedAt": "2026-07-21T04:53:58.034Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
