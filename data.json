@@ -2776,12 +2776,15 @@
         },
         "Training and Development__8": {
           "ans": "yes"
+        },
+        "Training and Development__9": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 13,
       "createdAt": "2026-07-21T04:29:54.350Z",
-      "_answered": 31,
+      "_answered": 32,
       "_total": 127
     }
   ],
@@ -2791,7 +2794,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T06:13:49.602Z",
+    "updatedAt": "2026-07-21T06:16:59.976Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
