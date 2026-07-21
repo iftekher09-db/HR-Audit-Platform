@@ -2846,7 +2846,8 @@
         },
         "Compensation and Benefits__10": {
           "finding": "No records found",
-          "action": "Need an SOP"
+          "action": "Need an SOP",
+          "ans": "no"
         },
         "Compensation and Benefits__11": {
           "ans": "no",
@@ -3139,7 +3140,7 @@
       "status": "In Progress",
       "score": 65,
       "createdAt": "2026-07-21T04:29:54.350Z",
-      "_answered": 124,
+      "_answered": 125,
       "_total": 127
     }
   ],
@@ -3149,7 +3150,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T07:22:00.223Z",
+    "updatedAt": "2026-07-21T07:22:59.325Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
