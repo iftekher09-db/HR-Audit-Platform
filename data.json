@@ -3129,6 +3129,9 @@
         },
         "Employee Relations, Communication and Engagement__21": {
           "ans": "yes"
+        },
+        "Employee Relations, Communication and Engagement__22": {
+          "finding": "No records found"
         }
       },
       "status": "In Progress",
@@ -3144,7 +3147,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T07:20:17.321Z",
+    "updatedAt": "2026-07-21T07:21:47.733Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
