@@ -2781,12 +2781,15 @@
           "ans": "no",
           "finding": "No records found",
           "action": "Need to implement for understanding the cost"
+        },
+        "Training and Development__10": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 13,
+      "score": 14,
       "createdAt": "2026-07-21T04:29:54.350Z",
-      "_answered": 32,
+      "_answered": 33,
       "_total": 127
     }
   ],
@@ -2796,7 +2799,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T06:17:56.294Z",
+    "updatedAt": "2026-07-21T06:19:26.041Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
