@@ -3096,7 +3096,8 @@
         },
         "Employee Relations, Communication and Engagement__14": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to regular practice maintaining compliance consequences"
         }
       },
       "status": "In Progress",
@@ -3112,7 +3113,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T07:12:10.941Z",
+    "updatedAt": "2026-07-21T07:12:16.117Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
