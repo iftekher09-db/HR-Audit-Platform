@@ -2689,12 +2689,15 @@
           "ans": "partial",
           "finding": "Partial records found",
           "action": "Need to develop properly and keep records for instant use"
+        },
+        "Recruitment and Selection__7": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 4,
+      "score": 5,
       "createdAt": "2026-07-21T04:29:54.350Z",
-      "_answered": 10,
+      "_answered": 11,
       "_total": 127
     }
   ],
@@ -2704,7 +2707,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T05:31:29.519Z",
+    "updatedAt": "2026-07-21T05:32:06.689Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
