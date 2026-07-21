@@ -3073,12 +3073,15 @@
           "ans": "partial",
           "action": "Need to communicate properly",
           "finding": "No complete communication"
+        },
+        "Employee Relations, Communication and Engagement__8": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 57,
+      "score": 58,
       "createdAt": "2026-07-21T04:29:54.350Z",
-      "_answered": 109,
+      "_answered": 110,
       "_total": 127
     }
   ],
@@ -3088,7 +3091,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T07:09:04.048Z",
+    "updatedAt": "2026-07-21T07:09:51.438Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
