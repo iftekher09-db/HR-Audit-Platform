@@ -2692,7 +2692,8 @@
         },
         "Recruitment and Selection__7": {
           "ans": "partial",
-          "finding": "Partial records found"
+          "finding": "Partial records found",
+          "action": "Need to maintain complete Role Profile for all Management Employee"
         }
       },
       "status": "In Progress",
@@ -2708,7 +2709,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T05:34:35.031Z",
+    "updatedAt": "2026-07-21T05:35:09.570Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
