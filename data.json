@@ -3105,7 +3105,7 @@
           "action": "Need to take initiatives maintaining Compliance Consequences"
         },
         "Employee Relations, Communication and Engagement__16": {
-          "ans": "no"
+          "ans": "partial"
         }
       },
       "status": "In Progress",
@@ -3121,7 +3121,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T07:15:55.687Z",
+    "updatedAt": "2026-07-21T07:16:02.001Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
