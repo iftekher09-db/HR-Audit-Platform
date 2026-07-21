@@ -2739,7 +2739,8 @@
           "ans": "yes"
         },
         "Training and Development__0": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Policy Exist but No awareness about policy"
         }
       },
       "status": "In Progress",
@@ -2755,7 +2756,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T05:56:14.733Z",
+    "updatedAt": "2026-07-21T05:56:36.579Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
