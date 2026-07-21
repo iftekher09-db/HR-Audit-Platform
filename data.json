@@ -2731,7 +2731,8 @@
           "action": "Need proper format for the process"
         },
         "Recruitment and Selection__15": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Signature not found"
         }
       },
       "status": "In Progress",
@@ -2747,7 +2748,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T05:54:22.256Z",
+    "updatedAt": "2026-07-21T05:54:33.497Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
