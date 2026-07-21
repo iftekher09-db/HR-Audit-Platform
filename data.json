@@ -2672,7 +2672,8 @@
           "action": "Need to maintain proper documentation"
         },
         "Recruitment and Selection__3": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Partial records found"
         }
       },
       "status": "In Progress",
@@ -2688,7 +2689,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T05:25:42.753Z",
+    "updatedAt": "2026-07-21T05:25:49.031Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
