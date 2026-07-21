@@ -2647,12 +2647,15 @@
         },
         "Code of Conduct__1": {
           "ans": "yes"
+        },
+        "Code of Conduct__2": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 1,
       "createdAt": "2026-07-21T04:29:54.350Z",
-      "_answered": 2,
+      "_answered": 3,
       "_total": 127
     }
   ],
@@ -2662,7 +2665,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T04:54:52.188Z",
+    "updatedAt": "2026-07-21T04:54:58.939Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
