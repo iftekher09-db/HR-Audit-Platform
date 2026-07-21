@@ -2675,6 +2675,9 @@
           "ans": "partial",
           "finding": "Partial records found",
           "action": "Need to maintain proper documentation"
+        },
+        "Recruitment and Selection__4": {
+          "finding": "Partial records found"
         }
       },
       "status": "In Progress",
@@ -2690,7 +2693,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T05:26:01.023Z",
+    "updatedAt": "2026-07-21T05:26:04.352Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
