@@ -3022,12 +3022,15 @@
           "ans": "no",
           "finding": "No records found",
           "action": "Will available after Mentorship Program Initiated"
+        },
+        "Succession Planning and Talent Management__16": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 50,
       "createdAt": "2026-07-21T04:29:54.350Z",
-      "_answered": 96,
+      "_answered": 97,
       "_total": 127
     }
   ],
@@ -3037,7 +3040,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T07:00:47.951Z",
+    "updatedAt": "2026-07-21T07:01:01.587Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
