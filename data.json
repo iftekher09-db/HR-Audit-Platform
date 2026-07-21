@@ -2877,12 +2877,15 @@
         },
         "Compensation and Benefits__19": {
           "ans": "yes"
+        },
+        "HR Technology and Systems__0": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 32,
+      "score": 33,
       "createdAt": "2026-07-21T04:29:54.350Z",
-      "_answered": 59,
+      "_answered": 60,
       "_total": 127
     }
   ],
@@ -2892,7 +2895,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T06:34:11.979Z",
+    "updatedAt": "2026-07-21T06:34:24.564Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
