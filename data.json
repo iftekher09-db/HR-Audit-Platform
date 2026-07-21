@@ -2732,13 +2732,17 @@
         },
         "Recruitment and Selection__15": {
           "ans": "partial",
-          "finding": "Signature not found"
+          "finding": "Signature not found",
+          "action": "Need proper signatory's sign"
+        },
+        "Recruitment and Selection__16": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
       "score": 9,
       "createdAt": "2026-07-21T04:29:54.350Z",
-      "_answered": 21,
+      "_answered": 22,
       "_total": 127
     }
   ],
@@ -2748,7 +2752,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T05:54:33.497Z",
+    "updatedAt": "2026-07-21T05:54:51.756Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
