@@ -2682,7 +2682,8 @@
         },
         "Recruitment and Selection__5": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to add in KPI as a project"
         }
       },
       "status": "In Progress",
@@ -2698,7 +2699,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T05:29:12.513Z",
+    "updatedAt": "2026-07-21T05:29:23.613Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
