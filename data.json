@@ -2899,16 +2899,19 @@
         },
         "HR Technology and Systems__5": {
           "finding": "No records found",
-          "action": "Need an SOP"
+          "action": "Need an SOP",
+          "ans": "no"
         },
         "HR Technology and Systems__6": {
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need an SOP",
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 35,
       "createdAt": "2026-07-21T04:29:54.350Z",
-      "_answered": 64,
+      "_answered": 66,
       "_total": 127
     }
   ],
@@ -2918,7 +2921,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T06:40:27.370Z",
+    "updatedAt": "2026-07-21T06:40:31.618Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
