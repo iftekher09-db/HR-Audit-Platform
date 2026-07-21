@@ -2745,7 +2745,8 @@
         },
         "Training and Development__1": {
           "ans": "partial",
-          "finding": "Partial records found"
+          "finding": "Partial records found",
+          "action": "Need to introduce proper TNA for people development"
         }
       },
       "status": "In Progress",
@@ -2761,7 +2762,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T06:03:12.102Z",
+    "updatedAt": "2026-07-21T06:03:35.271Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
