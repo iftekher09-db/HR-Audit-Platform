@@ -2662,12 +2662,15 @@
           "ans": "partial",
           "finding": "No records found. All policy approved but no evidence found.",
           "action": "Need proper awareness about the policy"
+        },
+        "Recruitment and Selection__1": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 2,
+      "score": 3,
       "createdAt": "2026-07-21T04:29:54.350Z",
-      "_answered": 5,
+      "_answered": 6,
       "_total": 127
     }
   ],
@@ -2677,7 +2680,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T05:17:13.625Z",
+    "updatedAt": "2026-07-21T05:17:22.518Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
