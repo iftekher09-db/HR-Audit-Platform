@@ -2655,7 +2655,8 @@
         },
         "Code of Conduct__3": {
           "ans": "partial",
-          "finding": "Partially arrange but not dedicated"
+          "finding": "Partially arrange but not dedicated",
+          "action": "Need dedicated with proper analysis"
         }
       },
       "status": "In Progress",
@@ -2671,7 +2672,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T04:56:26.430Z",
+    "updatedAt": "2026-07-21T04:56:39.571Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
