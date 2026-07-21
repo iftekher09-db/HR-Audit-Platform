@@ -2660,7 +2660,7 @@
         },
         "Recruitment and Selection__0": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found. All policy approved but no evidence found."
         }
       },
       "status": "In Progress",
@@ -2676,7 +2676,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T05:15:39.915Z",
+    "updatedAt": "2026-07-21T05:16:19.703Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
