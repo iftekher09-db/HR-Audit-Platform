@@ -3093,12 +3093,15 @@
           "ans": "partial",
           "finding": "Few initiatives",
           "action": "Need to regular practice maintaining compliance consequences"
+        },
+        "Employee Relations, Communication and Engagement__14": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 61,
       "createdAt": "2026-07-21T04:29:54.350Z",
-      "_answered": 115,
+      "_answered": 116,
       "_total": 127
     }
   ],
@@ -3108,7 +3111,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T07:11:43.096Z",
+    "updatedAt": "2026-07-21T07:12:05.196Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
