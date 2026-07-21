@@ -2940,7 +2940,8 @@
         },
         "Disciplinary Actions and Termination Processes__6": {
           "ans": "partial",
-          "finding": "No regular training program"
+          "finding": "No regular training program",
+          "action": "Need regular training program"
         }
       },
       "status": "In Progress",
@@ -2956,7 +2957,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T06:46:34.247Z",
+    "updatedAt": "2026-07-21T06:46:39.928Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
