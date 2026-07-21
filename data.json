@@ -2696,11 +2696,12 @@
           "action": "Need to maintain complete Role Profile for all Management Employee and staff, JD for worker"
         },
         "Recruitment and Selection__8": {
-          "ans": "partial"
+          "ans": "no",
+          "finding": "No up"
         }
       },
       "status": "In Progress",
-      "score": 5,
+      "score": 4,
       "createdAt": "2026-07-21T04:29:54.350Z",
       "_answered": 12,
       "_total": 127
@@ -2712,7 +2713,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-07-21T05:36:15.806Z",
+    "updatedAt": "2026-07-21T05:37:51.765Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
