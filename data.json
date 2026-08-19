@@ -3180,7 +3180,8 @@
         },
         "Code of Conduct__3": {
           "ans": "partial",
-          "finding": "Not covered for all employee"
+          "finding": "Not covered for all employee",
+          "action": "Complete all employee awareness session about COC"
         }
       },
       "status": "In Progress",
@@ -3196,7 +3197,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:02:26.405Z",
+    "updatedAt": "2026-08-19T04:08:53.938Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
