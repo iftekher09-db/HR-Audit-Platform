@@ -3574,13 +3574,17 @@
         },
         "Succession Planning and Talent Management__19": {
           "ans": "no",
-          "finding": "No formal retention strategies"
+          "finding": "No formal retention strategies",
+          "action": "Need to develop"
+        },
+        "Succession Planning and Talent Management__20": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 51,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 102,
+      "_answered": 103,
       "_total": 127
     }
   ],
@@ -3590,7 +3594,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T08:00:06.912Z",
+    "updatedAt": "2026-08-19T08:00:25.161Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
