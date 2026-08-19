@@ -3373,7 +3373,8 @@
           "ans": "yes"
         },
         "Compensation and Benefits__7": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No integrated HRIS"
         }
       },
       "status": "In Progress",
@@ -3389,7 +3390,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T05:45:36.553Z",
+    "updatedAt": "2026-08-19T05:45:46.397Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
