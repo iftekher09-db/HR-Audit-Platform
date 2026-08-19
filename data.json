@@ -3206,13 +3206,17 @@
         },
         "Recruitment and Selection__5": {
           "ans": "no",
-          "finding": "No evidence found"
+          "finding": "No evidence found",
+          "action": "Need strong follow up to achieve KPI"
+        },
+        "Recruitment and Selection__6": {
+          "ans": "partial"
         }
       },
       "status": "In Progress",
       "score": 5,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 10,
+      "_answered": 11,
       "_total": 127
     }
   ],
@@ -3222,7 +3226,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:28:38.011Z",
+    "updatedAt": "2026-08-19T04:29:33.500Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
