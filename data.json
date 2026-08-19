@@ -3593,13 +3593,17 @@
         },
         "Employee Relations, Communication and Engagement__3": {
           "ans": "partial",
-          "finding": "Not yet covered all employee"
+          "finding": "Not yet covered all employee",
+          "action": "Need to arrange for all employee"
+        },
+        "Employee Relations, Communication and Engagement__4": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
       "score": 54,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 107,
+      "_answered": 108,
       "_total": 127
     }
   ],
@@ -3609,7 +3613,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T08:01:29.025Z",
+    "updatedAt": "2026-08-19T08:02:19.486Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
