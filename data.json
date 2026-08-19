@@ -3190,12 +3190,15 @@
         },
         "Recruitment and Selection__1": {
           "ans": "yes"
+        },
+        "Recruitment and Selection__2": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 3,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 6,
+      "_answered": 7,
       "_total": 127
     }
   ],
@@ -3205,7 +3208,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:16:12.946Z",
+    "updatedAt": "2026-08-19T04:16:38.576Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
