@@ -3463,12 +3463,15 @@
           "ans": "partial",
           "finding": "No full records found",
           "action": "Need to take initiative for all employees"
+        },
+        "Disciplinary Actions and Termination Processes__2": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 37,
+      "score": 38,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 73,
+      "_answered": 74,
       "_total": 127
     }
   ],
@@ -3478,7 +3481,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T06:07:26.470Z",
+    "updatedAt": "2026-08-19T06:07:36.688Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
