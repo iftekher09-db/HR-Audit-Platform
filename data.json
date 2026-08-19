@@ -3264,7 +3264,8 @@
           "ans": "yes"
         },
         "Recruitment and Selection__18": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Maintain Partially"
         }
       },
       "status": "In Progress",
@@ -3280,7 +3281,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T05:05:43.750Z",
+    "updatedAt": "2026-08-19T05:05:54.524Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
