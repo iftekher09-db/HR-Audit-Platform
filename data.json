@@ -3551,7 +3551,8 @@
         },
         "Succession Planning and Talent Management__14": {
           "ans": "no",
-          "finding": "Not yet initiated"
+          "finding": "Not yet initiated",
+          "action": "Need to arrange for at least Hipo & successor "
         }
       },
       "status": "In Progress",
@@ -3567,7 +3568,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T06:32:30.741Z",
+    "updatedAt": "2026-08-19T06:33:14.090Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
