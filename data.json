@@ -3565,7 +3565,8 @@
           "action": "Initiated after the leadership session"
         },
         "Succession Planning and Talent Management__17": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No records found"
         }
       },
       "status": "In Progress",
@@ -3581,7 +3582,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T06:35:02.280Z",
+    "updatedAt": "2026-08-19T06:35:12.419Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
