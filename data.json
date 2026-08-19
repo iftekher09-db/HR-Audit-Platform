@@ -3243,12 +3243,15 @@
           "ans": "no",
           "finding": "No SOP/ Guidelines found",
           "action": "Need to establish SOP/ Guidelines for the process"
+        },
+        "Recruitment and Selection__13": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 6,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 17,
+      "_answered": 18,
       "_total": 127
     }
   ],
@@ -3258,7 +3261,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:38:59.173Z",
+    "updatedAt": "2026-08-19T04:41:11.973Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
