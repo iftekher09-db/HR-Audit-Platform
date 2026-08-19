@@ -3251,7 +3251,8 @@
         },
         "Recruitment and Selection__14": {
           "ans": "partial",
-          "finding": "No proper evidence found"
+          "finding": "No proper evidence found",
+          "action": "Need to maintain properly based on SOP/ Guidelines"
         }
       },
       "status": "In Progress",
@@ -3267,7 +3268,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:44:41.170Z",
+    "updatedAt": "2026-08-19T04:44:59.045Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
