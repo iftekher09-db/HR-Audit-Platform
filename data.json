@@ -3658,7 +3658,7 @@
           "action": "Need if fix with the organization culture and considering compliance factor"
         },
         "Employee Relations, Communication and Engagement__19": {
-          "finding": "No records found",
+          "finding": "Few records found",
           "action": "Need if fix with the organization culture and considering compliance factor",
           "ans": "partial"
         },
@@ -3681,7 +3681,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T08:15:08.964Z",
+    "updatedAt": "2026-08-19T08:15:28.740Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
