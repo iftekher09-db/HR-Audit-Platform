@@ -3182,12 +3182,15 @@
           "ans": "partial",
           "finding": "Not covered for all employee",
           "action": "Complete all employee awareness session about COC"
+        },
+        "Recruitment and Selection__0": {
+          "ans": "partial"
         }
       },
       "status": "In Progress",
       "score": 2,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 4,
+      "_answered": 5,
       "_total": 127
     }
   ],
@@ -3197,7 +3200,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:08:53.938Z",
+    "updatedAt": "2026-08-19T04:15:22.288Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
