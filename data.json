@@ -3424,13 +3424,15 @@
           "action": "Need an Integrated HRIS"
         },
         "HR Technology and Systems__1": {
-          "finding": "No integrated HRIS"
+          "finding": "No integrated HRIS",
+          "action": "Need an Integrated HRIS",
+          "ans": "partial"
         }
       },
       "status": "In Progress",
-      "score": 30,
+      "score": 31,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 62,
+      "_answered": 63,
       "_total": 127
     }
   ],
@@ -3440,7 +3442,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T05:51:05.361Z",
+    "updatedAt": "2026-08-19T05:51:08.991Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
