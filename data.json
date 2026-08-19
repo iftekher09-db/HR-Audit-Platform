@@ -3174,7 +3174,8 @@
           "ans": "yes"
         },
         "Code of Conduct__2": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Regular training session available for worker but not Management Employee"
         }
       },
       "status": "In Progress",
@@ -3190,7 +3191,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:00:55.563Z",
+    "updatedAt": "2026-08-19T04:01:31.897Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
