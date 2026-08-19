@@ -3641,13 +3641,17 @@
         },
         "Employee Relations, Communication and Engagement__15": {
           "ans": "no",
-          "finding": "No records found"
+          "finding": "No records found",
+          "action": "Need to implement considering compliance factor"
+        },
+        "Employee Relations, Communication and Engagement__16": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 59,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 119,
+      "_answered": 120,
       "_total": 127
     }
   ],
@@ -3657,7 +3661,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T08:11:03.608Z",
+    "updatedAt": "2026-08-19T08:11:56.302Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
