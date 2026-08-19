@@ -3272,7 +3272,8 @@
           "ans": "yes"
         },
         "Training and Development__1": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Found TNA Report for Management Employee"
         }
       },
       "status": "In Progress",
@@ -3288,7 +3289,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T05:07:40.205Z",
+    "updatedAt": "2026-08-19T05:11:37.896Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
