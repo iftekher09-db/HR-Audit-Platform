@@ -3568,12 +3568,15 @@
           "ans": "partial",
           "finding": "No formal records found but orally handled",
           "action": "Need to introduce an SOP/ Guidelines"
+        },
+        "Succession Planning and Talent Management__18": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 50,
+      "score": 51,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 100,
+      "_answered": 101,
       "_total": 127
     }
   ],
@@ -3583,7 +3586,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T07:28:01.592Z",
+    "updatedAt": "2026-08-19T07:59:33.787Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
