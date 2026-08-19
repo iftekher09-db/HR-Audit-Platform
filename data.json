@@ -3592,7 +3592,8 @@
           "ans": "yes"
         },
         "Employee Relations, Communication and Engagement__3": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Not yet covered all emplyee"
         }
       },
       "status": "In Progress",
@@ -3608,7 +3609,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T08:01:12.508Z",
+    "updatedAt": "2026-08-19T08:01:24.774Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
