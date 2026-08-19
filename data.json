@@ -3215,7 +3215,8 @@
           "action": "Need to take approval"
         },
         "Recruitment and Selection__7": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "No maintain regularly"
         }
       },
       "status": "In Progress",
@@ -3231,7 +3232,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:30:17.225Z",
+    "updatedAt": "2026-08-19T04:30:38.659Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
