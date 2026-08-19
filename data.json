@@ -3552,7 +3552,7 @@
         "Succession Planning and Talent Management__14": {
           "ans": "no",
           "finding": "Not yet initiated",
-          "action": "Need to arrange for at least Hipo & successor "
+          "action": "Need to arrange for at least Hippo & successor "
         },
         "Succession Planning and Talent Management__15": {
           "ans": "no",
@@ -3565,7 +3565,7 @@
           "action": "Initiated after the leadership session"
         },
         "Succession Planning and Talent Management__17": {
-          "ans": "no",
+          "ans": "partial",
           "finding": "No records found",
           "action": "Need to introduce an SOP/ Guidelines"
         }
@@ -3583,7 +3583,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T06:35:33.321Z",
+    "updatedAt": "2026-08-19T07:27:39.788Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
