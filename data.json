@@ -3203,7 +3203,8 @@
         },
         "Recruitment and Selection__4": {
           "ans": "partial",
-          "finding": "No update information in this year"
+          "finding": "No update information in this year",
+          "action": "Need to update and take approval from Management"
         },
         "Recruitment and Selection__5": {
           "ans": "no",
@@ -3229,12 +3230,15 @@
           "ans": "partial",
           "finding": "No advertisement for worker & Staff",
           "action": "Need to introduce for establish the process"
+        },
+        "Recruitment and Selection__10": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 6,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 14,
+      "_answered": 15,
       "_total": 127
     }
   ],
@@ -3244,7 +3248,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:36:05.811Z",
+    "updatedAt": "2026-08-19T04:36:53.227Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
