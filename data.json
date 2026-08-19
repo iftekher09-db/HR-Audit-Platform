@@ -3197,7 +3197,8 @@
           "action": "Need to approve from Business Head"
         },
         "Recruitment and Selection__3": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Maintain few steps but not fully"
         }
       },
       "status": "In Progress",
@@ -3213,7 +3214,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:19:02.725Z",
+    "updatedAt": "2026-08-19T04:19:21.290Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
