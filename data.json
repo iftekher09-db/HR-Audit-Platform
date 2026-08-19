@@ -3202,7 +3202,8 @@
           "action": "Need maintain as stated in the policy and SOP"
         },
         "Recruitment and Selection__4": {
-          "ans": "no"
+          "ans": "no",
+          "finding": "No update information"
         },
         "Recruitment and Selection__5": {
           "ans": "no",
@@ -3243,7 +3244,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:35:10.373Z",
+    "updatedAt": "2026-08-19T04:35:19.663Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
