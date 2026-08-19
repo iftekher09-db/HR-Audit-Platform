@@ -3604,13 +3604,17 @@
         },
         "Employee Relations, Communication and Engagement__7": {
           "ans": "no",
-          "finding": "Not yet initiated"
+          "finding": "Not yet initiated",
+          "action": "Need to take initiative for sharing"
+        },
+        "Employee Relations, Communication and Engagement__5": {
+          "ans": "partial"
         }
       },
       "status": "In Progress",
-      "score": 55,
+      "score": 56,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 110,
+      "_answered": 111,
       "_total": 127
     }
   ],
@@ -3620,7 +3624,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T08:04:41.617Z",
+    "updatedAt": "2026-08-19T08:06:37.673Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
