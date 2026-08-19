@@ -3331,7 +3331,8 @@
           "ans": "yes"
         },
         "Performance Management__3": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Goal created but not approved"
         }
       },
       "status": "In Progress",
@@ -3347,7 +3348,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T05:36:04.156Z",
+    "updatedAt": "2026-08-19T05:36:16.395Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
