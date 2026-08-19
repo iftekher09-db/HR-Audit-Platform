@@ -3221,13 +3221,17 @@
         },
         "Recruitment and Selection__8": {
           "ans": "partial",
-          "finding": "No maintain regularly"
+          "finding": "No maintain regularly",
+          "action": "Treat the process as regular"
+        },
+        "Recruitment and Selection__9": {
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 6,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 13,
+      "_answered": 14,
       "_total": 127
     }
   ],
@@ -3237,7 +3241,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:31:06.408Z",
+    "updatedAt": "2026-08-19T04:31:40.381Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
