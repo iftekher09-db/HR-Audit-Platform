@@ -3193,7 +3193,7 @@
         },
         "Recruitment and Selection__2": {
           "ans": "partial",
-          "finding": "No signed yet",
+          "finding": "Prepared but not signed yet",
           "action": "Need to approve from Business Head"
         }
       },
@@ -3210,7 +3210,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:18:45.085Z",
+    "updatedAt": "2026-08-19T04:18:58.827Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
