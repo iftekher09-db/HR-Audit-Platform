@@ -3210,7 +3210,8 @@
           "action": "Need strong follow up to achieve KPI"
         },
         "Recruitment and Selection__6": {
-          "ans": "partial"
+          "ans": "partial",
+          "finding": "Yes but not approved"
         }
       },
       "status": "In Progress",
@@ -3226,7 +3227,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:29:33.500Z",
+    "updatedAt": "2026-08-19T04:29:44.539Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
