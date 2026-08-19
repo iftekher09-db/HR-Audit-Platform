@@ -3226,7 +3226,8 @@
         },
         "Recruitment and Selection__9": {
           "ans": "partial",
-          "finding": "No advertisement for worker & Staff"
+          "finding": "No advertisement for worker & Staff",
+          "action": "Need to introduce for establish the process"
         }
       },
       "status": "In Progress",
@@ -3242,7 +3243,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:32:04.397Z",
+    "updatedAt": "2026-08-19T04:32:54.483Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
