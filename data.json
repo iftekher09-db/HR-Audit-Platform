@@ -3300,11 +3300,11 @@
           "action": "Need to complete the full process"
         },
         "Training and Development__7": {
-          "ans": "partial"
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 12,
+      "score": 13,
       "createdAt": "2026-08-19T03:47:17.730Z",
       "_answered": 31,
       "_total": 127
@@ -3316,7 +3316,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T05:23:35.971Z",
+    "updatedAt": "2026-08-19T05:23:39.688Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
