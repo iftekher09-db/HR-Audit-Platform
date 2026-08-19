@@ -3167,7 +3167,8 @@
       "answers": {
         "Code of Conduct__0": {
           "ans": "partial",
-          "finding": "All employees are not aware about COC"
+          "finding": "All employees are not aware about COC",
+          "action": "Need to arrange awareness session & training program to establish COC"
         }
       },
       "status": "In Progress",
@@ -3183,7 +3184,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T03:59:29.917Z",
+    "updatedAt": "2026-08-19T04:00:03.954Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
