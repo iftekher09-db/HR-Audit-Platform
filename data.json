@@ -3316,12 +3316,15 @@
           "ans": "partial",
           "finding": "No complete data found",
           "action": "Need to maintain details record"
+        },
+        "Performance Management__0": {
+          "ans": "partial"
         }
       },
       "status": "In Progress",
       "score": 13,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 34,
+      "_answered": 35,
       "_total": 127
     }
   ],
@@ -3331,7 +3334,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T05:33:17.108Z",
+    "updatedAt": "2026-08-19T05:34:20.177Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
