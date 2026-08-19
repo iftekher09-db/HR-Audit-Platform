@@ -3408,13 +3408,15 @@
           "action": "Need to implement"
         },
         "Compensation and Benefits__17": {
-          "finding": "No reconciliation found"
+          "finding": "No reconciliation found",
+          "action": "Need to implement",
+          "ans": "no"
         }
       },
       "status": "In Progress",
       "score": 28,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 58,
+      "_answered": 59,
       "_total": 127
     }
   ],
@@ -3424,7 +3426,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T05:49:55.492Z",
+    "updatedAt": "2026-08-19T05:50:05.715Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
