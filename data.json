@@ -3246,7 +3246,8 @@
         },
         "Recruitment and Selection__13": {
           "ans": "no",
-          "finding": "No SOP/ Guidelines follow"
+          "finding": "No SOP/ Guidelines follow",
+          "action": "Need to deve"
         }
       },
       "status": "In Progress",
@@ -3262,7 +3263,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:41:28.150Z",
+    "updatedAt": "2026-08-19T04:41:33.509Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
