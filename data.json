@@ -3253,12 +3253,15 @@
           "ans": "partial",
           "finding": "No proper evidence found",
           "action": "Need to maintain properly based on SOP/ Guidelines"
+        },
+        "Recruitment and Selection__15": {
+          "ans": "yes"
         }
       },
       "status": "In Progress",
-      "score": 6,
+      "score": 7,
       "createdAt": "2026-08-19T03:47:17.730Z",
-      "_answered": 19,
+      "_answered": 20,
       "_total": 127
     }
   ],
@@ -3268,7 +3271,7 @@
     "footer": "Confidential — DBL Group HR Audit"
   },
   "_meta": {
-    "updatedAt": "2026-08-19T04:44:59.045Z",
+    "updatedAt": "2026-08-19T04:55:06.374Z",
     "updatedBy": "A S M Iftekher Nur"
   }
 }
